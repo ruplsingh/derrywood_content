@@ -22,7 +22,6 @@ def log(message):
 
 
 def download_content(file_name, source_link, extension):
-    log(f">> Downloading {file_name}.{extension}")
     file_path = f'./files/products/{file_name}'
     pathlib.Path(file_path).mkdir(parents=True, exist_ok=True)
     file_path += f'/{file_name}.{extension}'
@@ -31,6 +30,7 @@ def download_content(file_name, source_link, extension):
     prod_image = open(file_path, 'wb')
     prod_image.write(response.content)
     prod_image.close()
+    log(f">> Downloaded {file_name}.{extension}")
 
 
 def scrape_content(prod_name, prod_link):
@@ -60,7 +60,7 @@ def scrape_content(prod_name, prod_link):
         threading.Thread(target=download_content, args=(prod_name, image_url, 'jpg')).start()
 
     pdf = soup.select_one(pdf_css_sel)
-    if image is not None:
+    if pdf is not None:
         is_pdf_present = True
         pdf_href = pdf['href']
         pdf_url = 'https://www.gewiss.com' + pdf_href
