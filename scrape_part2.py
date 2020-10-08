@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
 
 options = webdriver.ChromeOptions()
@@ -43,9 +43,9 @@ def scrape_content(prod_name, prod_link):
                   'anonymous > ul:nth-child(1) > li:nth-child(2) > a'
     try:
         driver_wait = WebDriverWait(driver, 5)
-        driver_wait.until(EC.presence_of_element_located(
+        driver_wait.until(ec.presence_of_element_located(
             (By.CSS_SELECTOR, image_css_sel)))
-        driver_wait.until(EC.presence_of_element_located(
+        driver_wait.until(ec.presence_of_element_located(
             (By.CSS_SELECTOR, pdf_css_sel)))
     except Exception as e:
         log(f"Error {repr(e)}")

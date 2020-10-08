@@ -33,8 +33,8 @@ out_file = open('files/product_list_with_links.csv', 'w')
 reader = csv.reader(in_file)
 writer = csv.writer(out_file)
 for row in reader:
-    product_id = row[0]
-    row.append(get_link_of_product(product_id))
+    prod_id = row[0]
+    row.append(get_link_of_product(prod_id))
     writer.writerow(row)
 
 driver.close()
