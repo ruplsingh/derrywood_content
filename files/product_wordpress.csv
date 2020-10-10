@@ -1,0 +1,947 @@
+﻿ID,Type,SKU,Name,Published,Is featured?,Visibility in catalogue,Short description,Description,Date sale price starts,Date sale price ends,Tax status,Tax class,In stock?,Stock,Low stock amount,Backorders allowed?,Sold individually?,Weight (kg),Length (cm),Width (cm),Height (cm),Allow customer reviews?,Purchase note,Sale price,Regular price,Categories,Tags,Shipping class,Images,Download limit,Download expiry days,Parent,Grouped products,Upsells,Cross-sells,External URL,Button text,Position,Meta: _yoast_wpseo_primary_product_cat,Meta: _yoast_wpseo_is_cornerstone,Meta: _yoast_wpseo_content_score,Meta: _download_type,Meta: _yoast_wpseo_focuskw_text_input,Meta: _yoast_wpseo_focuskw,Meta: _yoast_wpseo_linkdex,Meta: _yoast_wpseo_title,Meta: _yoast_wpseo_metadesc,Meta: _wpas_done_all
+189,variation,GLED -S4D (White),,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,55,,,,https://www.derrywood.com/wp-content/uploads/2013/12/Path-Lights-White.png,,,,,,,,,0,,,,,,,,,,
+190,variation,GLED -S4D (Blue),,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,55,,,,https://www.derrywood.com/wp-content/uploads/2013/12/Path-Lights-Blue.png,,,,,,,,,1,,,,,,,,,,
+191,variation,GLED -S4D (Green),,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,55,,,,https://www.derrywood.com/wp-content/uploads/2013/12/Path-Lights-Green.png,,,,,,,,,2,,,,,,,,,,
+197,variation,GLED-11S (White),,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,68,,,,,,,,,,,,,0,,,,,,,,,,
+200,variation,GLED-610SBA (White),,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,59,,,,https://www.derrywood.com/wp-content/uploads/2013/12/Pond-Lights-White.png,,,,,,,,,0,,,,,,,,,,
+201,variation,GLED-610SBA (Green),,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,59,,,,https://www.derrywood.com/wp-content/uploads/2013/12/Pond-Lights-Green.png,,,,,,,,,1,,,,,,,,,,
+202,variation,GLED-610SBA (Blue),,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,59,,,,https://www.derrywood.com/wp-content/uploads/2013/12/Pond-Lights-Blue.png,,,,,,,,,2,,,,,,,,,,
+545,simple,,LED Moon Ring,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/01/LEDRING-SPECIFICATION.pdf"">LED RING SPECIFICATION</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"architectural lighting, hotel lighting, led moon ring, moon ring",,"https://www.derrywood.com/wp-content/uploads/2017/01/derrywood-led-ring-glow.gif, https://www.derrywood.com/wp-content/uploads/2016/12/moonring.jpg, https://www.derrywood.com/wp-content/uploads/2017/01/LED-Ring-For-Dundrum.jpg, https://www.derrywood.com/wp-content/uploads/2017/05/Untitled.jpg",,,,,,,,,0,,,30,,,,,,,
+555,simple,,gw704311,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/70441.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/03/70441-300x148.png"" alt="""" width=""300"" height=""148"" class=""alignnone size-medium wp-image-688"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range,"Gewiss, Gewiss Electrical Products, Gewiss Switches, Roary switches",,"https://www.derrywood.com/wp-content/uploads/2013/12/gw704311.jpg, https://www.derrywood.com/wp-content/uploads/2013/12/images.jpg",,,,,,,,,0,,,30,,,,,,,
+560,simple,,Gw44206,1,1,visible,JUNCTION BOXES WITH PLAIN SCREWED LID - IP56 - INTERNAL DIMENSIONS 150X110X70 - SMOOTH WALLS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-44206-spec.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-44206-spec-300x159.png"" alt="""" width=""300"" height=""159"" class=""alignnone size-medium wp-image-673"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Enclosure, Gewiss Products, gw 44206",,"https://www.derrywood.com/wp-content/uploads/2017/03/gewiss-44206.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/GW-44209.jpg",,,,,,,,,0,14,,30,,,,,,,
+570,simple,,SMART 4 LED LIGHTING,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/smart-4-cap.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/03/smart-4-cap-300x260.png"" alt="""" width=""300"" height=""260"" class=""alignnone size-medium wp-image-625"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range,"Gewiss, Gewiss Electrical Products, Gewiss smart 4 lighting, smart 4 led lighting, Smart4",,"https://www.derrywood.com/wp-content/uploads/2017/03/Smart-4-exp.png, https://www.derrywood.com/wp-content/uploads/2017/03/Smart-4-Led.jpg",,,,,,,,,0,,,,,,,,,,
+573,simple,,GW85004,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-85006.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-85006-300x164.png"" alt="""" width=""300"" height=""164"" class=""alignnone size-medium wp-image-681"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range,"Gewiss, Gewiss Ireland, gw 85004, gw 85006, Horus range",,"https://www.derrywood.com/wp-content/uploads/2014/05/85006.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/GW85004.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/horus-range.jpg",,,,,,,,,0,,,,,,,,,,
+580,simple,,gw27415,1,0,visible,"<h3 class=""title3"">INDICATOR LAMPS - 15W - 230V - RED DIFFUSOR - IP55 - GREY RAL 7035</h3>
+\n<div class=""text2"">A complete, versatile system of modular containers, perfectly integrable in the SYSTEM domestic range and able to meet the high protection installation requirements of the residential, commercial and industrial sectors.
+\nThe 27 COMBI range is available both in the IP40 version and in watertight versions with IP55 and IP65 degree of protection, recommended for all outdoor applications which are subjected to extreme atmospheric conditions.</div>
+\n<div>*** PLEASE NOTE THE BULB IS NOT INCLUDED***</div>","Click the link below for product detail,
+\n
+\n<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/GW27415.pdf"">GW27415 SPECIFICATION</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range,"Gewiss Electrical Products, Indicator Lamp",,https://www.derrywood.com/wp-content/uploads/2017/03/gw27415.jpg,,,,,,,,,0,,,90,,,,,,,
+583,simple,,GW27834,1,0,visible,,"Please click on the link for more information;
+\n
+\n
+\n<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-27831-watertight-switches.pdf"">gw 27831 watertight switches</a>
+\n
+\n<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-27832-watertight-switches.pdf"">gw 27832 watertight switches</a>
+\n
+\n<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-27833.pdf"">gw 27833 watertight switches</a>
+\n
+\n<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-27834-watertight-switches.pdf"">gw 27834 watertight switches</a>
+\n
+\n<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-27843-watertight-enclosure-complete-with-socket-outlet.pdf"">gw 27843 watertight enclosure complete with socket outlet</a>
+\n
+\n
+\n
+\n
+\n",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range,"Gewiss, Gewiss shop online, Gewiss Switches, GW27831, WATERTIGHT SWITCHES",,"https://www.derrywood.com/wp-content/uploads/2013/12/GW27834-Gewiss.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/gw-27834.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/gw-27843.jpg",,,,,,,,,0,,,30,,,,,,,
+590,simple,,GW62426,1,1,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-62426.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-62426-300x162.png"" alt="""" width=""300"" height=""162"" class=""alignnone size-medium wp-image-687"" /></a>
+\n 
+\n 
+\n 
+\n 
+\n 
+\n 
+\n 
+\n ",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range,"electrical plugs, Gewiss Electrical Products, Gewiss Ireland, Gewiss shop online, low voltage straight plugs, Plugs and sockets",,https://www.derrywood.com/wp-content/uploads/2017/03/gw-62426-socket.png,,,,,,,,,0,,,30,,,,,,,
+605,simple,,GW40101,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-40101.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-40101-300x152.png"" alt="""" width=""300"" height=""152"" class=""alignnone size-medium wp-image-607"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,"Gewiss Power Range > Enclosures, Gewiss Power Range","enclosures, Gewiss Electrical Products, Gewiss Ireland, water tight enclosures",,https://www.derrywood.com/wp-content/uploads/2017/03/GW40101_detail.jpg,,,,,,,,,0,,,,,,,,,,
+610,simple,,Intelux Moon Surface,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/moon-surface-lighting-new2017.pdf"">Moon Surface Lighting</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"architectural lighting, Intelux, Moon Lighting, surface lighting",,"https://www.derrywood.com/wp-content/uploads/2017/03/Saturn-lighting.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/IMG-20170310-WA0004.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/moon-lighting-diagram-new.jpg",,,,,,,,,0,,,30,,,,,,,
+614,simple,,3000K LED KIT,1,0,visible,"IP65-3000K white LED Tape SMD 5050, RoHs Compliant with 3M adhesive backing.
+\nThis product comes complete with a driver and clips.","<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/3000K-LED-TAPE-NEW.pdf"">3000K LED TAPE NEW</a>",,,taxable,,1,,,0,0,,,,,0,,,,LED Strip Lighting,"3000K LED, IP65, LED, led lighting, Led strip lighting, led tape",,https://www.derrywood.com/wp-content/uploads/2017/03/3000K-warm-white.jpg,,,,,,,,,0,,,30,,,,,,,
+617,simple,,Esperance  Luminaire,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/Esperance-Luminaire.pdf"">Click for information on Esperance Luminaire</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"adjustable lighting, Intelux, semi adjustable lighting",,"https://www.derrywood.com/wp-content/uploads/2017/03/reggiano-elbow2.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/reggiano-elbow2.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/semi-adjustable-track-mounted.jpg",,,,,,,,,0,,,30,,,,,,,
+628,simple,,4000K LED KIT,1,0,visible,"IP65-4000K white LED Tape SMD 5050, RoHs Compliant with 3M adhesive backing.
+\n5 Metre tape complete with driver and connectors.
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/4000K-LED-tape-1.pdf"">Click here for 4000K LED Tape specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,LED Strip Lighting,"4000K LED, LED, LED Dublin, led strip, led tape",,https://www.derrywood.com/wp-content/uploads/2017/03/4000K-SMD.jpg,,,,,,,,,0,,,30,,,,,,,
+641,simple,,GW90005,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/compact-mini-circuit-breaker.pdf"">compact mini circuit breaker specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range,"Gewiss circuit breaker, Gewiss Electrical Products",,"https://www.derrywood.com/wp-content/uploads/2017/03/compact-miniture-circuit-breaker-image.jpg, https://www.derrywood.com/wp-content/uploads/2013/12/images.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/gewiss-circuit-breaker.jpg",,,,,,,,,0,,,,,,,,,,
+667,simple,,DX30116,1,0,visible,PRICES ARE PER METRE,"For more information on this product, Click on the link below;
+\n
+\n<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/DX-30116.pdf"">DX 30116 Specification</a>
+\n",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range,"Adaptaflex, Anaconda, Diflex, Diflex Gland, Flexible Conduit, Gewiss, Gewiss Diflex, Gewiss Electrical Products, Gewiss Products, Gewiss shop online, Gland, Kopex",,https://www.derrywood.com/wp-content/uploads/2017/03/DX-30116-image.jpg,,,,,,,,,0,,,60,,,,,,,
+677,simple,,GW68003N,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/68-Q-Din-Range.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/03/68-Q-Din-Range-300x159.png"" alt="""" width=""300"" height=""159"" class=""alignnone size-medium wp-image-678"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range,"68 Q-DIN Range, Gewiss, Gewiss Ireland, Gewiss shop online, GW 68003N",,"https://www.derrywood.com/wp-content/uploads/2017/03/GW-68003N.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/GW-68003N.jpg, https://www.derrywood.com/wp-content/uploads/2013/10/1.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/gw-68017N.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/gw-68008N.jpg",,,,,,,,,0,,,30,,,,,,,
+700,simple,,RGB LED KIT,1,0,visible,"IP65-RGB LED Tape SMD 5050, RoHs Compliant with 3M adhesive backing.
+\nThis product comes complete with driver, controller and clips.","<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/RGB-Specification.pdf"">Click here for RGB Specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,LED Strip Lighting,"LED, LED Dublin, led tape, RGB LED Strip, RGB Tape",,"https://www.derrywood.com/wp-content/uploads/2017/03/RGB-LED-Strip.jpg, https://www.derrywood.com/wp-content/uploads/2017/03/Diagram-RGB-LED-controller.png, https://www.derrywood.com/wp-content/uploads/2017/03/5M-LED-RGB-Flexible-Light-Tape-850x784.jpg",,,,,,,,,0,,,30,,,,,,,
+710,simple,,gw40001,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-40001-gw-40009.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/03/gw-40001-gw-40009-300x132.png"" alt="""" width=""300"" height=""132"" class=""alignnone size-medium wp-image-711"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,"Gewiss Power Range > Enclosures, Gewiss Power Range","Gewiss, gw 40001, modular enclosures",,https://www.derrywood.com/wp-content/uploads/2017/03/gw-40001.jpg,,,,,,,,,0,,,,,,,,,,
+757,simple,,Izera,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/04/iZERA.pdf"">IZERA Specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Izera, Izera Bollard, Izera light element",,"https://www.derrywood.com/wp-content/uploads/2017/04/izera-light-element.jpg, https://www.derrywood.com/wp-content/uploads/2017/04/izera-light-element.jpg, https://www.derrywood.com/wp-content/uploads/2017/04/izera-pic.jpg",,,,,,,,,0,,,,,,,,,,
+759,simple,,Ruby down lights,1,0,visible,,"<strong><a href=""http://www.derrywood.com/wp-content/uploads/2017/04/Ruby-downlight-for-website-1.docx"">Ruby down-light specification</a></strong><!--more-->
+\n
+\n
+\n
+\n
+\n",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"downlights, Recessed LED Lighting, spot lighting",,"https://www.derrywood.com/wp-content/uploads/2017/04/Ruby-downlight-1.png, https://www.derrywood.com/wp-content/uploads/2017/04/Ruby-downlight.png, https://www.derrywood.com/wp-content/uploads/2017/04/Ruby-down-light-X1.png",,,,,,,,,0,,,30,,,,,,,
+850,simple,,M20 Cable Gland x 150 per Box,1,0,visible,"Please download the specification for more details, the glands are sold in packs of 150 pieces.
+\n*********** Priced per 150 pieces at €0.19 per gland","<a href=""http://www.derrywood.com/wp-content/uploads/2017/04/Intelux-cable-gland.pdf"">VinPower cable gland - Click me for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Cable gland, M12 Cable gland, M20 cable gland, VinBus",,"https://www.derrywood.com/wp-content/uploads/2017/04/gland2.gif, https://www.derrywood.com/wp-content/uploads/2017/04/explosive-cable-gland.png, https://www.derrywood.com/wp-content/uploads/2017/04/grey-gland.jpg",,,,,,,,,0,148,,30,,,,,,,
+858,simple,,Dynamic White LED Strip,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/04/Intelux-Dynamic-white-led-tape.pdf"">Intelux Dynamic white LED tape</a>",,,taxable,,1,,,0,0,,,,,0,,,,LED Strip Lighting,"Dynamic White LED, LED, led strip, led tape",,"https://www.derrywood.com/wp-content/uploads/2017/04/dynamic-white-led-tape.jpg, https://www.derrywood.com/wp-content/uploads/2017/04/Light-spectrum.jpg",,,,,,,,,0,23,,30,,,,,,,
+882,simple,,Double T8 Lighting fixture with Radium LED,1,0,visible,C.P Intelux Light fitting with double Radium LED Tubes,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/05/Intelux-T8.LIGHTING.pdf"">Click here for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Radium LED, T8 LED LIght, T8 Light fixture with Radium LED",,"https://www.derrywood.com/wp-content/uploads/2017/05/T8-Intelux-2-x-Radium-LED.png, https://www.derrywood.com/wp-content/uploads/2017/05/radium-t8-image.jpg",,,,,,,,,0,48,,30,,,,,,,
+902,simple,,Single T8 Lighting fixture with Radium LED,1,1,visible,Intelux T8 single light fixture with Radium LED tubing inside.,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/05/Intelux-T8.LIGHTING.pdf"">Click here for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Intelux, T8 Light fixture with Radium LED, T8 Lighting system",,"https://www.derrywood.com/wp-content/uploads/2017/05/intelux-single-led-t8-2.png, https://www.derrywood.com/wp-content/uploads/2017/05/radium-t8-image.jpg",,,,,,,,,0,48,,30,,,,,,,
+923,simple,,Radium 4ft LED Lamp,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/05/radium-4ft-led.pdf"">Radium 4ft LED specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,Radium LED Lights,,"https://www.derrywood.com/wp-content/uploads/2017/05/Radium-lamp.jpg, https://www.derrywood.com/wp-content/uploads/2017/05/radium-t8-image.jpg",,,,,,,,,0,48,,30,,,,,,,
+926,simple,,Radium 5ft LED Lamp,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/05/Radium-5ft-led-1.pdf"">Radium 5ft LED specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"LED TUBE Lighting, Radium 5ft LED Lamps",,"https://www.derrywood.com/wp-content/uploads/2017/05/radium-t8-image.jpg, https://www.derrywood.com/wp-content/uploads/2017/05/Radium-lamp.jpg",,,,,,,,,0,48,,30,,,,,,,
+932,simple,1,Gw44204,1,1,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/05/GW-44204.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/05/GW-44204-300x156.png"" alt="""" width=""300"" height=""156"" class=""alignnone size-medium wp-image-933"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,gw44204,,https://www.derrywood.com/wp-content/uploads/2017/05/GW44204.jpg,,,,,,,,,0,14,,30,,,,,,,
+947,simple,,GW27831,1,0,visible,WATERTIGHT ENCLOSURE COMPLETE WITH ONE-WAY SWITCH 1P 16AX - IP55 - RAL 7035 GREY,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/05/GW27831.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/05/GW27831-300x159.png"" alt="""" width=""300"" height=""159"" class=""alignnone size-medium wp-image-948"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range,"GW27831, WATERTIGHT SWITCHES",,https://www.derrywood.com/wp-content/uploads/2017/05/GW27831.jpg,,,,,,,,,0,24,,30,,,,,,,
+951,simple,,GW60026h,1,0,visible,"STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 2P+E 16A 200-250V 50/60HZ - BLUE - 6H - FAST WIRING 
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/05/GW60026FH.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/05/GW60026FH-300x150.png"" alt="""" width=""300"" height=""150"" class=""alignnone size-medium wp-image-952"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"16 amp plug, 220v plug, gewiss industrial plugs, Gewiss Plugs, gw60026h, industrial plugs, trailing plug",,https://www.derrywood.com/wp-content/uploads/2017/05/GW60026.jpg,,,,,,,,,0,189,,30,,,,,,,
+975,simple,,Motion Activated LED Lighting,1,1,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/05/Motion-sensor-bed-lighting.pdf"">Motion Sensor LED Strip Lighting</a>",,,taxable,,1,,,0,0,,,,,0,,,,LED Strip Lighting,"Motion activated LED, Under bed lighting",,"https://www.derrywood.com/wp-content/uploads/2017/05/under-bed-lighting.jpg, https://www.derrywood.com/wp-content/uploads/2017/05/underbed-lighting.jpg",,,,,,,,,0,23,,30,,,,,,,
+1015,simple,,Gw44205,1,0,visible,"JUNCTION BOXES WITH PLAIN SCREWED LID - IP55 - INTERNAL DIMENSIONS 120X80X50 - WALLS WITH CABLE GLANDS 
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44205-spec.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44205-spec-300x150.png"" alt="""" width=""300"" height=""150"" class=""alignnone size-medium wp-image-1016"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44205, Junction Box",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44205-1.jpg,,,,,,,,,0,14,,30,,,,,,,
+1020,simple,,Gw44207,1,0,visible,JUNCTION BOXES WITH PLAIN SCREWED LID - IP56 - INTERNAL DIMENSIONS 190X140X70 - SMOOTH WALLS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44207-spec.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44207-spec-300x163.png"" alt="""" width=""300"" height=""163"" class=""alignnone size-medium wp-image-1021"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Enclosure, Gewiss, gw44207, Junction Box",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44207.jpg,,,,,,,,,0,14,,30,,,,,,,
+1023,simple,,Gw44208,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44208-spec.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44208-spec-300x162.png"" alt="""" width=""300"" height=""162"" class=""alignnone size-medium wp-image-1024"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,gw44208,,https://www.derrywood.com/wp-content/uploads/2017/06/gw44208.jpg,,,,,,,,,0,14,,30,,,,,,,
+1026,simple,,Gw44209,1,0,visible,JUNCTION BOXES WITH PLAIN SCREWED LID - IP56 - INTERNAL DIMENSIONS 300X220X120 - SMOOTH WALLS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44209-spec-1.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44209-spec-1-300x157.png"" alt="""" width=""300"" height=""157"" class=""alignnone size-medium wp-image-1028"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44209",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44209.jpg,,,,,,,,,0,,,30,,,,,,,
+1030,simple,,Gw44210,1,0,visible,JUNCTION BOXES WITH PLAIN SCREWED LID - IP56 - INTERNAL DIMENSIONS 380X300X120 - SMOOTH WALLS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44210-spec.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44210-spec-300x165.png"" alt="""" width=""300"" height=""165"" class=""alignnone size-medium wp-image-1036"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Enclosure, Gewiss",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44210-1.jpg,,,,,,,,,0,14,,30,,,,,,,
+1033,simple,,Gw44211,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44211.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44211-300x164.png"" alt="""" width=""300"" height=""164"" class=""alignnone size-medium wp-image-1034"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Enclosure, Gewiss, gw44211",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44211.jpg,,,,,,,,,0,14,,30,,,,,,,
+1037,simple,,Gw44214,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44214.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44214-300x164.png"" alt="""" width=""300"" height=""164"" class=""alignnone size-medium wp-image-1038"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,gw44214,,https://www.derrywood.com/wp-content/uploads/2017/06/gw44214.jpg,,,,,,,,,0,14,,30,,,,,,,
+1040,simple,,gw44215,1,0,visible,JUNCTION BOXES WITH DEEP SCREWED LID - IP56 - INTERNAL DIMENSIONS 120X80X120 - SMOOTH WALLS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44215.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44215-300x158.png"" alt="""" width=""300"" height=""158"" class=""alignnone size-medium wp-image-1041"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,gw44215,,https://www.derrywood.com/wp-content/uploads/2017/06/Gw44215.jpg,,,,,,,,,0,14,,30,,,,,,,
+1043,simple,,Gw44216,1,0,visible,"JUNCTION BOXES WITH DEEP SCREWED LID - IP56 - INTERNAL DIMENSIONS 150X110 X140 - SMOOTH WALLS 
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44216.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44216-300x166.png"" alt="""" width=""300"" height=""166"" class=""alignnone size-medium wp-image-1045"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"enclosures, Gewiss, gw44216",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44216.jpg,,,,,,,,,0,14,,30,,,,,,,
+1046,simple,,Gw44217,1,0,visible,JUNCTION BOXES WITH DEEP SCREWED LID - IP56 - INTERNAL DIMENSIONS 190X140X140 - SMOOTH WALLS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44217.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44217-300x160.png"" alt="""" width=""300"" height=""160"" class=""alignnone size-medium wp-image-1047"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,gw44217,,https://www.derrywood.com/wp-content/uploads/2017/06/gw44217.jpg,,,,,,,,,0,14,,30,,,,,,,
+1049,simple,,Gw44218,1,0,visible,JUNCTION BOXES WITH DEEP SCREWED LID - IP56 - INTERNAL DIMENSIONS 240X190X160 - SMOOTH WALLS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44218.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44218-300x161.png"" alt="""" width=""300"" height=""161"" class=""alignnone size-medium wp-image-1051"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,,,https://www.derrywood.com/wp-content/uploads/2017/06/gw44218.jpg,,,,,,,,,0,14,,30,,,,,,,
+1052,simple,,Gw44219,1,0,visible,"JUNCTION BOXES WITH DEEP SCREWED LID - IP56 - INTERNAL DIMENSIONS 300X220X180 - SMOOTH WALLS 
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44219.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44219-300x151.png"" alt="""" width=""300"" height=""151"" class=""alignnone size-medium wp-image-1053"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44219",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44219.jpg,,,,,,,,,0,14,,30,,,,,,,
+1055,simple,,gw44220,1,0,visible,JUNCTION BOXES WITH DEEP SCREWED LID - IP56 - INTERNAL DIMENSIONS 380X300X180 - SMOOTH WALLS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44220.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44220-300x162.png"" alt="""" width=""300"" height=""162"" class=""alignnone size-medium wp-image-1056"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,gw44220,,https://www.derrywood.com/wp-content/uploads/2017/06/gw44220-1.jpg,,,,,,,,,0,14,,30,,,,,,,
+1060,simple,,Gw44221,1,0,visible,JUNCTION BOXES WITH DEEP SCREWED LID - IP56 - INTERNAL DIMENSIONS 460X380X180 - SMOOTH WALLS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44221.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44221-300x161.png"" alt="""" width=""300"" height=""161"" class=""alignnone size-medium wp-image-1063"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44221",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44221-1.jpg,,,,,,,,,0,14,,30,,,,,,,
+1064,simple,,Gw44234,1,0,visible,"JUNCTION BOXES WITH PLAIN QUICK FIXING LID A 1/4 TURN - IP55 - INTERNAL DIMENSIONS 100X100X50 - SMOOTH WALLS 
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44234-spec.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44234-spec-300x163.png"" alt="""" width=""300"" height=""163"" class=""alignnone size-medium wp-image-1065"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,gw44234,,https://www.derrywood.com/wp-content/uploads/2017/06/gw44234.jpg,,,,,,,,,0,14,,30,,,,,,,
+1067,simple,,Gw44236,1,0,visible,"JUNCTION BOXES WITH PLAIN QUICK FIXING LID A 1/4 TURN - IP55 - INTERNAL DIMENSIONS 150X110X70 - SMOOTH WALLS 
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44236.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44236-300x161.png"" alt="""" width=""300"" height=""161"" class=""alignnone size-medium wp-image-1069"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,gw44236,,https://www.derrywood.com/wp-content/uploads/2017/06/gw44236.jpg,,,,,,,,,0,14,,30,,,,,,,
+1070,simple,,Gw44001,1,0,visible,JUNCTION BOXES WITH PLAIN PRESS-ON LID IP44 - INTERNAL DIMENSIONS Ø 65X35 - WALLS WITH CABLE GLANDS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44001.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44001-300x152.png"" alt="""" width=""300"" height=""152"" class=""alignnone size-medium wp-image-1071"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Enclosure, gw44001",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44001.jpg,,,,,,,,,0,14,,30,,,,,,,
+1074,simple,,Gw44002,1,0,visible,JUNCTION BOXES WITH PLAIN PRESS-ON LID IP44 - INTERNAL DIMENSIONS Ø 80X40 - WALLS WITH CABLE GLANDS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44002.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44002-300x165.png"" alt="""" width=""300"" height=""165"" class=""alignnone size-medium wp-image-1075"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44002",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44002.jpg,,,,,,,,,0,14,,30,,,,,,,
+1077,simple,,Gw44003,1,0,visible,JUNCTION BOXES WITH PLAIN PRESS-ON LID IP44 - INTERNAL DIMENSIONS 80X80X40 - WALLS WITH CABLE GLANDS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44003.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44003-300x154.png"" alt="""" width=""300"" height=""154"" class=""alignnone size-medium wp-image-1078"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44003",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44003.jpg,,,,,,,,,0,14,,30,,,,,,,
+1081,simple,,Gw44004,1,0,visible,JUNCTION BOXES WITH PLAIN SCREWED LID - IP55 - INTERNAL DIMENSIONS 100X100X50 - WALLS WITH CABLE GLANDS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44004.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44004-300x158.png"" alt="""" width=""300"" height=""158"" class=""alignnone size-medium wp-image-1082"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44004",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44004.jpg,,,,,,,,,0,14,,30,,,,,,,
+1084,simple,,Gw44005,1,0,visible,JUNCTION BOXES WITH PLAIN SCREWED LID - IP55 - INTERNAL DIMENSIONS 120X80X50 - WALLS WITH CABLE GLANDS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44005.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44005-300x157.png"" alt="""" width=""300"" height=""157"" class=""alignnone size-medium wp-image-1085"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44005",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44005.jpg,,,,,,,,,0,14,,30,,,,,,,
+1087,simple,,Gw44006,1,0,visible,"JUNCTION BOXES WITH PLAIN SCREWED LID - IP55 - INTERNAL DIMENSIONS 150X110X70 - WALLS WITH CABLE GLANDS 
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44006.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44006-300x159.png"" alt="""" width=""300"" height=""159"" class=""alignnone size-medium wp-image-1090"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44006",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44006-1.jpg,,,,,,,,,0,14,,30,,,,,,,
+1092,simple,,Gw44007,1,0,visible,JUNCTION BOXES WITH PLAIN SCREWED LID - IP55 - INTERNAL DIMENSIONS 190X140X70 - WALLS WITH CABLE GLANDS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/Gw44007.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/Gw44007-300x163.png"" alt="""" width=""300"" height=""163"" class=""alignnone size-medium wp-image-1093"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44007",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44007.jpg,,,,,,,,,0,14,,30,,,,,,,
+1098,simple,,Gw44008,1,0,visible,JUNCTION BOXES WITH PLAIN SCREWED LID - IP55 - INTERNAL DIMENSIONS 240X190X90 - WALLS WITH CABLE GLANDS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44008.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44008-300x160.png"" alt="""" width=""300"" height=""160"" class=""alignnone size-medium wp-image-1099"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Enclosure, Gewiss, gw44008",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44008.jpg,,,,,,,,,0,14,,30,,,,,,,
+1101,simple,,Gw44009,1,0,visible,JUNCTION BOXES WITH PLAIN SCREWED LID - IP55 - INTERNAL DIMENSIONS 300X220X120 - WALLS WITH CABLE GLANDS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44009.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44009-300x164.png"" alt="""" width=""300"" height=""164"" class=""alignnone size-medium wp-image-1102"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,gw44009,,https://www.derrywood.com/wp-content/uploads/2017/06/gw44009.jpg,,,,,,,,,0,14,,30,,,,,,,
+1104,simple,,Gw44010,1,0,visible,"JUNCTION BOXES WITH PLAIN SCREWED LID - IP55 - INTERNAL DIMENSIONS 380X300X120 - WALLS WITH CABLE GLANDS 
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44010.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44010-300x166.png"" alt="""" width=""300"" height=""166"" class=""alignnone size-medium wp-image-1105"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44010",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44010.jpg,,,,,,,,,0,14,,30,,,,,,,
+1107,simple,,Gw44011,1,0,visible,JUNCTION BOXES WITH PLAIN SCREWED LID - IP55 - INTERNAL DIMENSIONS 460X380X120 - WALLS WITH CABLE GLANDS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/Gw44011.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/Gw44011-300x156.png"" alt="""" width=""300"" height=""156"" class=""alignnone size-medium wp-image-1108"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44011",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44011.jpg,,,,,,,,,0,14,,30,,,,,,,
+1110,simple,,Gw44426,1,0,visible,"BOX FOR JUNCTIONS AND FOR ELECTRIC AND ELECTRONIC EQUIPMENT - WITH TRANSPARENT PLAIN LID - IP56 - INTERNAL DIMENSIONS 150X110 X70 - WITH SMOOTH WALLS
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/Gw44426.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/Gw44426-300x164.png"" alt="""" width=""300"" height=""164"" class=""alignnone size-medium wp-image-1112"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,gw44426,,https://www.derrywood.com/wp-content/uploads/2017/06/Gw44426.jpg,,,,,,,,,0,14,,30,,,,,,,
+1113,simple,,Gw44427,1,0,visible,"BOX FOR JUNCTIONS AND FOR ELECTRIC AND ELECTRONIC EQUIPMENT - WITH TRANSPARENT PLAIN LID - IP56 - INTERNAL DIMENSIONS 190X140X70 - WITH SMOOTH WALLS
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44427.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44427-300x164.png"" alt="""" width=""300"" height=""164"" class=""alignnone size-medium wp-image-1114"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44427",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44427.jpg,,,,,,,,,0,14,,30,,,,,,,
+1116,simple,,Gw44428,1,0,visible,BOX FOR JUNCTIONS AND FOR ELECTRIC AND ELECTRONIC EQUIPMENT - WITH TRANSPARENT PLAIN LID - IP56 - INTERNAL DIMENSIONS 240X190X90 - WITH SMOOTH WALLS,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44428.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44428-300x171.png"" alt="""" width=""300"" height=""171"" class=""alignnone size-medium wp-image-1119"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, gw44428, Transparent Enclosure",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44428-1.jpg,,,,,,,,,0,14,,30,,,,,,,
+1122,simple,,Gw44430,1,0,visible,"BOX FOR JUNCTIONS AND FOR ELECTRIC AND ELECTRONIC EQUIPMENT - WITH TRANSPARENT PLAIN LID - IP56 - INTERNAL DIMENSIONS 380X300X120 - WITH SMOOTH WALLS
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/Gw44430.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/Gw44430-300x167.png"" alt="""" width=""300"" height=""167"" class=""alignnone size-medium wp-image-1128"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"gw44430, Transparent Enclosure",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44430-1.jpg,,,,,,,,,0,14,,30,,,,,,,
+1123,simple,,Gw44429,1,0,visible,"BOX FOR JUNCTIONS AND FOR ELECTRIC AND ELECTRONIC EQUIPMENT - WITH TRANSPARENT PLAIN LID - IP56 - INTERNAL DIMENSIONS 300X220X120 - WITH SMOOTH WALLS
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44429-spec.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44429-spec-300x154.png"" alt="""" width=""300"" height=""154"" class=""alignnone size-medium wp-image-1124"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Gewiss, Gw44429, Transparent Enclosure",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44429.jpg,,,,,,,,,0,14,,30,,,,,,,
+1129,simple,,Gw44431,1,0,visible,"BOX FOR JUNCTIONS AND FOR ELECTRIC AND ELECTRONIC EQUIPMENT - WITH TRANSPARENT PLAIN LID - IP56 - INTERNAL DIMENSIONS 460X380X120 - WITH SMOOTH WALLS
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/Gw44431.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/Gw44431-300x164.png"" alt="""" width=""300"" height=""164"" class=""alignnone size-medium wp-image-1130"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"Enclosure, Gewiss, gw44431",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44431.jpg,,,,,,,,,0,14,,30,,,,,,,
+1132,simple,,Gw44436,1,0,visible,"BOX FOR JUNCTIONS AND FOR ELECTRIC AND ELECTRONIC EQUIPMENT - WITH TRANSPARENT DEEP LID - IP56 - INTERNAL DIMENSIONS 150X110 X140 - WITH SMOOTH WALLS
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44436.png""><img src=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44436-300x166.png"" alt="""" width=""300"" height=""166"" class=""alignnone size-medium wp-image-1134"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"gw44436, Transparent Enclosure",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44436.jpg,,,,,,,,,0,14,,30,,,,,,,
+1135,simple,,Gw44437,1,0,visible,"BOX FOR JUNCTIONS AND FOR ELECTRIC AND ELECTRONIC EQUIPMENT - WITH TRANSPARENT DEEP LID - IP56 - INTERNAL DIMENSIONS 190X140X140 - WITH SMOOTH WALLS
+\n
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/gw44437.pdf"">Click on the link for product Specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Enclosures,"190X140X140, 44437, Transparent Enclosure",,https://www.derrywood.com/wp-content/uploads/2017/06/gw44426.jpg,,,,,,,,,0,14,,30,,,,,,,
+1136,simple,,Luxomat LC-Click-N200,1,0,visible,"Motion detector with 200° detection area and 180° anti-creep zone
+\nCan be mounted on standard flush-mount boxes
+\nAdjustable ball head
+\nDetection area can be restricted with blinds
+\nSimple mounting thanks to plug base
+\nApplication examples: 
+\nmonitoring for narrow premises, ways, gateways or at door sills
+\n
+\n 
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/06/Luxomat-LC-Click-N-200.pdf"">Luxomat LC-Click-N 200</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"LC-click-N 200, Luxomat",,https://www.derrywood.com/wp-content/uploads/2017/06/luxomat-lc.jpg,,,,,,,,,0,48,,30,,,,,,,
+1140,simple,,Beg Luxomat 92196,1,0,visible,"■ Remote control-capable ceiling motion detector
+\n■ One channel for light switching
+\n■ Special optical system for detection of even the smallest
+\nmovements
+\n■ Additional functions can be set up using the optional remote
+\ncontrol.","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/beg-92196-spec.pdf"">beg 92196 spec</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"beg 92196, beg luxomat",,https://www.derrywood.com/wp-content/uploads/2017/07/beg-92196.jpg,,,,,,,,,0,48,,30,,,,,,,
+1143,simple,,BEG Luxomat 92190,1,0,visible,,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/beg-92196-spec.pdf"">beg 92196, 92190 spec</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"92190, BEG, beg luxomat",,https://www.derrywood.com/wp-content/uploads/2017/07/BEG-92190.jpg,,,,,,,,,0,48,,30,,,,,,,
+1149,simple,,GW60023H,1,0,visible,STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 2P+E 16A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60023-SPECIFICATION.pdf"">CLICK ON THE LINK FOR SPECIFICATION</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"gw60023, outdoor sockets",,https://www.derrywood.com/wp-content/uploads/2017/07/GW60023H.jpg,,,,,,,,,0,189,,30,,,,,,,
+1153,simple,,gw60030H,1,0,visible,STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 3P+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60030H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"gw60030, outdoor plug",,https://www.derrywood.com/wp-content/uploads/2017/07/gw60030h-pic.jpg,,,,,,,,,0,189,,30,,,,,,,
+1156,simple,,gw60031H,1,0,visible,STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 3P+N+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60031H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"gw60031H, outdoor sockets",,https://www.derrywood.com/wp-content/uploads/2017/07/GW60031H_large.jpg,,,,,,,,,0,189,,30,,,,,,,
+1161,simple,,gw60034H,1,0,visible,STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 2P+E 32A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60034H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"Gewiss Plugs, gw60034H, outdoor plug",,https://www.derrywood.com/wp-content/uploads/2017/07/GW60023H.jpg,,,,,,,,,0,189,,30,,,,,,,
+1163,simple,,gw60037H,1,0,visible,"STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 2P+E 32A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60037H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"Gewiss Plugs, gw60037H",,https://www.derrywood.com/wp-content/uploads/2017/05/GW60026.jpg,,,,,,,,,0,189,,30,,,,,,,
+1167,simple,,gw60041H,1,0,visible,STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 3P+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60041H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"Gewiss Plugs, gw60041",,https://www.derrywood.com/wp-content/uploads/2017/07/gw60030h-pic.jpg,,,,,,,,,0,189,,30,,,,,,,
+1169,simple,,gw60042H,1,0,visible,STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 3P+N+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60042H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"Gewiss Plugs, gw60042",,https://www.derrywood.com/wp-content/uploads/2017/07/gw60030h-pic.jpg,,,,,,,,,0,189,,30,,,,,,,
+1171,simple,,gw61052H,1,0,visible,STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 3P+E 63A 380-415V 50/60HZ - RED - 6H - MANTLE TERMINAL,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW61052H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"Gewiss Plugs, gw61052H",,https://www.derrywood.com/wp-content/uploads/2017/07/GW61052H.jpg,,,,,,,,,0,189,,30,,,,,,,
+1174,simple,,gw61053H,1,0,visible,"STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 3P+N+E 63A 346-415V 50/60HZ - RED - 6H - MANTLE TERMINAL
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW61053H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"Gewiss Plugs, gw61053H",,https://www.derrywood.com/wp-content/uploads/2017/07/GW61052H.jpg,,,,,,,,,0,189,,30,,,,,,,
+1176,simple,,gw60060H,1,0,visible,"STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 3P+E 125A 380-415V 50/60HZ - RED - 6H - MANTLE TERMINAL
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60060H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"Gewiss Plugs, gw60060H",,https://www.derrywood.com/wp-content/uploads/2017/07/GW61052H.jpg,,,,,,,,,0,189,,30,,,,,,,
+1178,simple,,gw60061H,1,0,visible,STRAIGHT PLUG HP - IP66/IP67/IP68/IP69 - 3P+E 125A 380-415V 50/60HZ - RED - 6H - MANTLE TERMINAL,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60061H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Plugs,"Gewiss Plugs, gw60061H",,https://www.derrywood.com/wp-content/uploads/2017/07/GW61052H.jpg,,,,,,,,,0,189,,30,,,,,,,
+1183,simple,,gw60001H,1,0,visible,STRAIGHT PLUG HP - IP44/IP54 - 2P+E 16A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60001H.pdf"">Click on link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Plugs - Indoor,"Gewiss Plugs, gw60001H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw60001h.jpg,,,,,,,,,0,203,,30,,,,,,,
+1185,simple,,gw60004H,1,0,visible,STRAIGHT PLUG HP - IP44/IP54 - 2P+E 16A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60004H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Plugs - Indoor,"Gewiss Plugs, gw60004H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw60004H.jpg,,,,,,,,,0,203,,30,,,,,,,
+1188,simple,,gw60008H,1,0,visible,STRAIGHT PLUG HP - IP44/IP54 - 3P+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60008H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Plugs - Indoor,"Gewiss Plugs, gw60008H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw60008H.jpg,,,,,,,,,0,203,,30,,,,,,,
+1191,simple,,gw60009H,1,0,visible,STRAIGHT PLUG HP - IP44/IP54 - 3P+N+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60009H.pdf"">Click on link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Plugs - Indoor,"Gewiss Plugs, gw60009H",,https://www.derrywood.com/wp-content/uploads/2017/07/GW60009H.jpg,,,,,,,,,0,203,,30,,,,,,,
+1194,simple,,gw60012H,1,0,visible,"STRAIGHT PLUG HP - IP44/IP54 - 2P+E 32A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60012H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Plugs - Indoor,"Gewiss Plugs, gw600012H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw60001h.jpg,,,,,,,,,0,203,,30,,,,,,,
+1196,simple,,gw60015H,1,0,visible,"STRAIGHT PLUG HP - IP44/IP54 - 2P+E 32A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60015H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,"Gewiss Power Range, Gewiss Power Range > IP 44 Plugs - Indoor","220v plug, 32a plug, gewiss plug, Gewiss Plugs, gw600015H, industrial plugs, IP44 plug",,https://www.derrywood.com/wp-content/uploads/2017/07/gw60004H.jpg,,,,,,,,,0,203,,30,,,,,,,
+1198,simple,,gw60019H,1,0,visible,STRAIGHT PLUG HP - IP44/IP54 - 3P+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60019H.pdf"">GW60019H</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Plugs - Indoor,"Gewiss Plugs, gw60019H",,https://www.derrywood.com/wp-content/uploads/2017/07/GW60009H.jpg,,,,,,,,,0,203,,30,,,,,,,
+1200,simple,,gw60020H,1,0,visible,STRAIGHT PLUG HP - IP44/IP54 - 3P+N+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/60020H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Plugs - Indoor,"Gewiss Plugs, gw60020H",,https://www.derrywood.com/wp-content/uploads/2017/07/GW60009H.jpg,,,,,,,,,0,203,,30,,,,,,,
+1203,simple,,gw62201H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP44/IP54 - 2P+E 16A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62201H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Panel Sockets,"gw62201H, panel socket",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62201h.jpg,,,,,,,,,0,212,,30,,,,,,,
+1206,simple,,gw62205H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP44/IP54 - 2P+E 16A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62205H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Panel Sockets,"gewiss sockets, gw62201H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62205h.jpg,,,,,,,,,0,212,,30,,,,,,,
+1209,simple,,gw62209H,1,0,visible,"10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP44/IP54 - 3P+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60009H-1.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Panel Sockets,"4 pin socket, gewiss panel sockets, gw62209H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw2210H.jpg,,,,,,,,,0,212,,30,,,,,,,
+1212,simple,,gw62210H,1,0,visible,"10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP44/IP54 - 3P+N+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62210H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Panel Sockets,"gewiss panel sockets, gw62210H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw2210H.jpg,,,,,,,,,0,212,,30,,,,,,,
+1214,simple,,gw62213H,1,0,visible,"10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP44/IP54 - 2P+E 32A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62213H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Panel Sockets,"gewiss panel sockets, gw62213H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62201h.jpg,,,,,,,,,0,212,,30,,,,,,,
+1216,simple,,gw62216H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP44/IP54 - 2P+E 32A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62216H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Panel Sockets,"gewiss panel sockets, gw62216H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62205h.jpg,,,,,,,,,0,212,,30,,,,,,,
+1218,simple,,gw62220H,1,0,visible,"10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP44/IP54 - 3P+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62220H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Panel Sockets,"4 pin socket, gewiss panel sockets, gw62220H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw2210H.jpg,,,,,,,,,0,212,,30,,,,,,,
+1220,simple,,gw62219H,1,0,visible,"10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP44/IP54 - 2P+E 32A 380-415V 50/60HZ - RED - 9H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW60019H-1.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Panel Sockets,"4 pin 32 amp, gewiss panel sockets, gewiss sockets, gw62219H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw2210H.jpg,,,,,,,,,0,212,,30,,,,,,,
+1222,simple,,gw62221H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP44/IP54 - 3P+N+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62221H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Panel Sockets,"gewiss panel sockets, gw62221H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw2210H.jpg,,,,,,,,,0,212,,30,,,,,,,
+1227,simple,,gw62224H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 2P+E 16A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62224H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, IP 67 panel sockets",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62224H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1230,simple,,gw62227H,1,0,visible,"10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 2P+E 16A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62227H.pdf"">Click on the link for specifcation</a>",,,taxable,,1,,,0,0,,,,,0,,,0,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw2227H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw22227H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1233,simple,,gw62231H,1,0,visible,"10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 3P+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62231H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw62231H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62231H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1236,simple,,gw62232H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 3P+N+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62232H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw62232H",,https://www.derrywood.com/wp-content/uploads/2017/07/GW62243H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1238,simple,,gw62235H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 2P+E 32A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/gw62235h.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw62236H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62224H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1240,simple,,gw62238H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 2P+E 32A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62238H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw62238H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw22227H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1242,simple,,gw62242H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 3P+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62242H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw62242H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62231H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1244,simple,,gw62243H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 3P+N+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62243H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw62243H",,https://www.derrywood.com/wp-content/uploads/2017/07/GW62243H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1246,simple,,gw63249H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 2P and E - 63A - 200-250V 50/60 HZ - BLUE - 6H - MANTLE TERMINAL,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/gw63249H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw63249H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw22227H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1248,simple,,gw63253H,1,0,visible,10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 3P+E 63A 380-415V 50/60HZ - RED - 6H - MANTLE TERMINAL,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW63253H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw63253H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw63253H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1251,simple,,gw63254H,1,0,visible,"10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 3P+N+E 63A 346-415V 50/60HZ - RED - 6H - MANTLE TERMINAL
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW63254H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw63254H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw63253H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1253,simple,,gw62261H,1,0,visible,"10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 3P+E 125A 380-415V 50/60HZ - RED - 6H - MANTLE TERMINAL
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62261H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw62261H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw63253H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1255,simple,,gw62260H,1,0,visible,"10° ANGLED FLUSH-MOUNTING SOCKET-OUTLET HP - IP66/IP67 - 3P+N+E 125A 200-250V 50/60HZ - BLUE - 9H - MANTLE TERMINAL
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/gw62260H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Panel Sockets,"gewiss panel sockets, gw62260H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw63253H.jpg,,,,,,,,,0,226,,30,,,,,,,
+1260,simple,,gw62001H,1,0,visible,"STRAIGHT CONNECTOR HP - IP44/IP54 - 2P+E 16A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62001H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Couplers,"gewiss couplers, gw62001H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62001h.jpg,,,,,,,,,0,240,,30,,,,,,,
+1263,simple,,gw62004H,1,0,visible,STRAIGHT CONNECTOR HP - IP44/IP54 - 2P+E 16A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62004H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Couplers,"220V socket, 220V trailing socket, gewiss couplers, gw62004H, industrial socket, IP 44 socket",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62004H.jpg,,,,,,,,,0,240,,30,,,,,,,
+1266,simple,,gw62008H,1,0,visible,STRAIGHT CONNECTOR HP - IP44/IP54 - 3P+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62008H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Couplers,"gewiss couplers, gw62008H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62008H.jpg,,,,,,,,,0,240,,30,,,,,,,
+1270,simple,,gw62009H,1,0,visible,STRAIGHT CONNECTOR HP - IP44/IP54 - 3P+N+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62009H.pdf"">Click on the link for specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Couplers,gw62009H,,https://www.derrywood.com/wp-content/uploads/2017/07/gw62009H.jpg,,,,,,,,,0,240,,30,,,,,,,
+1273,simple,,gw62012H,1,0,visible,STRAIGHT CONNECTOR HP - IP44/IP54 - 2P+E 32A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62012H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Couplers,gw62012H,,https://www.derrywood.com/wp-content/uploads/2017/07/gw62012H.jpg,,,,,,,,,0,240,,30,,,,,,,
+1276,simple,,gw62015H,1,0,visible,"STRAIGHT CONNECTOR HP - IP44/IP54 - 2P+E 32A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62015H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Couplers,"gewiss couplers, gw62015H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62015h.jpg,,,,,,,,,0,240,,30,,,,,,,
+1279,simple,,gw62019H,1,0,visible,STRAIGHT CONNECTOR HP - IP44/IP54 - 3P+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62019H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Couplers,"3P and Earth, gewiss couplers, gw62019H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62009H.jpg,,,,,,,,,0,240,,30,,,,,,,
+1281,simple,,gw62020H,1,0,visible,"STRAIGHT CONNECTOR HP - IP44/IP54 - 3P+N+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/07/GW62020H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 44 Couplers,"gewiss couplers, gw62020H",,https://www.derrywood.com/wp-content/uploads/2017/07/gw62009H.jpg,,,,,,,,,0,240,,30,,,,,,,
+1284,simple,,Intelux UGR <19,1,0,visible,"Flat Panel LED - 40 watt 
+\n600 x 600 x 90 ","<a href=""http://www.derrywood.com/wp-content/uploads/2017/08/Intelux-LED-Panel-Lighting.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"LED PANEL LIGHTING, UGR&lt;19",,https://www.derrywood.com/wp-content/uploads/2017/08/Artboard-1.png,,,,,,,,,0,48,,30,,,,,,,
+1289,simple,,gw62023H,1,0,visible,STRAIGHT CONNECTOR HP - IP66/IP67/IP68/IP69 - 2P+E 16A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/08/GW62023H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Couplers,"Gewiss IP67 couplers, gw62023H",,https://www.derrywood.com/wp-content/uploads/2017/08/gw62023h-1.jpg,,,,,,,,,0,253,,30,,,,,,,
+1292,simple,gw62026H,gw62026H,1,0,visible,"STRAIGHT CONNECTOR HP - IP66/IP67/IP68/IP69 - 2P+E 16A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/08/GW62026H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Couplers,"220V socket, coupler, Gewiss, gewiss coupler, Gewiss IP67 couplers, gewiss socket, gw62026H, trailing socket",,https://www.derrywood.com/wp-content/uploads/2017/08/gw62026H.jpg,,,,,,,,,0,253,,30,,,,,,,
+1295,simple,,gw62030H,1,0,visible,"STRAIGHT CONNECTOR HP - IP66/IP67/IP68/IP69 - 3P+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/08/GW62030H.pdf"">Click on the link for product specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > IP 67 Couplers,"16 amp socket, 4 pin socket, Gewiss IP67 couplers, gw62030H, industrial sockets",,https://www.derrywood.com/wp-content/uploads/2017/08/gw62030H.jpg,,,,,,,,,0,253,,30,,,,,,,
+1298,simple,"Aluminium Profile, LED Strip Lighting",Aluminium Profile - Slimline,1,0,visible,"Aluminium Profile - Prices are per meter
+\n
+\nThe Aluminum Profile from Intelux is an anodized aluminum extrusion. The profile can be used in conjunction with LED strip lighting. They are available in 3 meter lengths and can be easily cut to any size. The profiles come complete with metal mounting brackets and plastic end caps, the cover is a milky PC light diffusion.
+\n
+\nSize: 17.5 x 15 mm profile
+\n
+\n
+\n ","<strong>PRICES ARE PER METER WITH A MINIMUM ORDER OF 3 METERS</strong>
+\n
+\nLED Aluminium Profile 
+\nMaterial: Anodized Aluminum Extrusion
+\nCover: Milky
+\nLength: 3 meter long
+\nMounting: Metal Mounting Clips
+\nEndcaps: Plastic endcaps",,,taxable,,1,,,0,0,,,,,0,,,,LED Strip Lighting,"Aluminium profile, led lighting, Recessed LED lighing, Surface mounted profile",,"https://www.derrywood.com/wp-content/uploads/2017/08/led-profile-17.jpg, https://www.derrywood.com/wp-content/uploads/2017/08/profile-lighting.jpg",,,,,,,,,0,23,,30,,,,,,,
+1320,simple,,Led Round Panel,1,0,visible,"Intelux Recessed LED Panel Light 
+\n","<a href=""http://www.derrywood.com/wp-content/uploads/2017/09/LED-12w-panel.pdf"">LED 12w panel specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"12 watt LED Panel, led lighting, LED PANEL LIGHTING",,https://www.derrywood.com/wp-content/uploads/2017/09/led-circle-light.jpg,,,,,,,,,0,48,,30,,,,,,,
+1326,simple,,PEND LED,1,1,visible,"A unique new patented product revolutionising the domestic lighting market with guaranteed compliance, quality and long life efficiency. Pendant LED was designed in the UK and provides a superior solution to existing pendant lights currently available, such as incandescent and PL.","<a href=""http://www.derrywood.com/wp-content/uploads/2017/09/PENDANT-LED-002.pdf"">PENDANT LED Specification </a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"7 watt LED Pendant Light, Pendant LED",,https://www.derrywood.com/wp-content/uploads/2017/09/1Pend-led_pd-650x650.jpg,,,,,,,,,0,48,,30,,,,,,,
+1328,simple,,50 watt Linear Low Bay,1,1,visible,"50 watt Linear low bay - High Efficiency LED, Epistar 5630 SMD with aluminium housing   ","<a href=""http://www.derrywood.com/wp-content/uploads/2017/09/50-and-30-watt-linear-lowbay-002.pdf"">50 and 30 watt linear low-bay Specification </a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"50 watt Linear Low bay, LED Linear Low Bay",,"https://www.derrywood.com/wp-content/uploads/2017/09/linear-low-bay.jpg, https://www.derrywood.com/wp-content/uploads/2017/09/images-of-linear-low-bay.png, https://www.derrywood.com/wp-content/uploads/2017/09/linear-low-bay-images.jpg",,,,,,,,,0,48,,30,,,,,,,
+1331,simple,,30 watt Linear Low bay,1,1,visible,"30 watt Linear low bay - High Efficiency LED, Epistar 5630 SMD with aluminium housing","<a href=""http://www.derrywood.com/wp-content/uploads/2017/09/50-and-30-watt-linear-lowbay-002.pdf"">50 and 30 watt linear low-bay Specification </a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"30 watt linear low-bay, IP 44 Low bay, LED Linear Low Bay",,"https://www.derrywood.com/wp-content/uploads/2017/09/linear-low-bay.jpg, https://www.derrywood.com/wp-content/uploads/2017/09/images-of-linear-low-bay.png",,,,,,,,,0,148,,30,,,,,,,
+1362,simple,,45 degree angled profile,1,0,visible,"LED Aluminium Profile 
+\nMaterial: Anodized Aluminum Extrusion
+\nCover: Milky
+\nLength: 3 meter long
+\nMounting: Metal Mounting Clips
+\nEndcaps: Plastic endcaps
+\n
+\n<strong>PRICES ARE PER METER WITH MINIMUM ORDER OF 3 METERS.</strong>",,,,taxable,,1,,,0,0,,,,,0,,,,LED Strip Lighting,"45 degree profile, angled profile",,https://www.derrywood.com/wp-content/uploads/2017/09/45-degree-profile.jpg,,,,,,,,,0,23,,30,,,,,,,
+1364,simple,,VP Flood Lights,1,0,visible,"10 watt LED Flood Light with corrosion proof housing and slimline design, IP65 and 90% energy saving.","<a href=""http://www.derrywood.com/wp-content/uploads/2017/09/Flood-lights-no-price.pdf"">Flood lights 10 watt </a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"10 watt flood light, Flood lights, LED flood lights, Vinpower Lighting",,https://www.derrywood.com/wp-content/uploads/2017/09/flood-lights-new.png,,,,,,,,,0,148,,60,,,,,,,
+1387,simple,,gw62401,1,0,visible,10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP44 - 2P+E 16A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/62401-IP44.pdf"">62401 specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Wall Sockets IP44,"Gewiss wall socket, gw62401, industrial wall sockets, wall sockets",,https://www.derrywood.com/wp-content/uploads/2017/10/Gw62401.jpg,,,,,,,,,0,301,,30,,,,,,,
+1390,simple,,GW62404,1,0,visible,10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP44 - 2P+E 16A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/62404-specification.pdf"">62404 specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Wall Sockets IP44,"Gewiss wall socket, gw62404, IP 44 socket",,https://www.derrywood.com/wp-content/uploads/2017/10/62404.jpg,,,,,,,,,0,301,,30,,,,,,,
+1393,simple,,gw62408,1,0,visible,10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP44 - 3P+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/62408-Specification.pdf"">62408 Specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Wall Sockets IP44,"62408, Gewiss shop online, gewiss socket, Gewiss wall socket",,https://www.derrywood.com/wp-content/uploads/2017/10/gw62408.jpg,,,,,,,,,0,301,,30,,,,,,,
+1403,simple,,GW62409,1,0,visible,10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP44 - 3P+N+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/gw62409-specification.pdf"">gw62409 specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Wall Sockets IP44,"62409, Gewiss wall socket, Indoor socket, industrial sockets, Ip44 socket",,https://www.derrywood.com/wp-content/uploads/2017/10/gw62409.jpg,,,,,,,,,0,301,,30,,,,,,,
+1405,simple,,GW62412,1,0,visible,10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP44 - 2P+E 32A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/gewiss-62412.pdf"">gewiss 62412</a> specification",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Wall Sockets IP44,"3-PIN 110 Volt, 62412, gewiss socket, industrial sockets",,https://www.derrywood.com/wp-content/uploads/2017/10/Gw62401.jpg,,,,,,,,,0,301,,30,,,,,,,
+1408,simple,,GW62415,1,0,visible,10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP44 - 2P+E 32A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/62415-specification.pdf"">62415 specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Wall Sockets IP44,"62415, Gewiss wall socket, industrial socket",,https://www.derrywood.com/wp-content/uploads/2017/10/gw62415.jpg,,,,,,,,,0,301,,30,,Industrial plugs and sockets,Industrial plugs and sockets,27,,,
+1411,simple,,Gw62419,1,0,visible,10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP44 - 3P+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/62419-specification.pdf"">62419 specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Wall Sockets IP44,"4 pin socket, 62419, Gewiss wall socket, industrial socket, industrial wall socket IP44",,https://www.derrywood.com/wp-content/uploads/2017/10/62419.jpg,,,,,,,,,0,301,,30,,,,,,,
+1414,simple,,Gw62420,1,0,visible,10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP44 - 3P+N+E 32A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/62420-specification.pdf"">62420 specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Wall Sockets IP44,"5 pin socket, 62420, gewiss industrial plugs, Gewiss wall socket, industrial wall sockets",,https://www.derrywood.com/wp-content/uploads/2017/10/gw62420.jpg,,,,,,,,,0,301,,30,,,,,,,
+1418,simple,,GW62423,1,0,visible,10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP67 - 2P+E 16A 100-130V 50/60HZ - YELLOW - 4H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/62423-specification.pdf"">62423 specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Wall Sockets IP67,"3 PIN SOCKET, 62423, industrial wall sockets, Wall sockets IP67",,https://www.derrywood.com/wp-content/uploads/2017/10/gw62423-1.jpg,,,,,,,,,0,312,,30,,,,,,,
+1421,simple,,GW62426,1,0,visible,<b>10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP67 - 2P+E 16A 200-250V 50/60HZ - BLUE - 6H - SCREW WIRING </b>,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/62426-Specification.pdf"">62426 Specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,"Gewiss Power Range, Gewiss Power Range > Wall Sockets IP67","62426, Gewiss wall socket, Wall sockets IP67",,https://www.derrywood.com/wp-content/uploads/2017/10/GW64246.jpg,,,,,,,,,0,312,,30,,,,,,,
+1425,simple,,GW62430,1,0,visible,10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP67 - 3P+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/62430-specification.pdf"">62430 specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Wall Sockets IP67,"62430, Wall sockets IP67",,https://www.derrywood.com/wp-content/uploads/2017/10/gw62430.jpg,,,,,,,,,0,312,,30,,,,,,,
+1428,simple,,GW62431,1,0,visible,10° ANGLED SURFACE-MOUNTING SOCKET-OUTLET - IP67 - 3P+N+E 16A 380-415V 50/60HZ - RED - 6H - SCREW WIRING,"&nbsp;
+\n
+\nClick on the link below for product specification,
+\n
+\n<a href=""http://www.derrywood.com/wp-content/uploads/2017/10/62431-specification.pdf"">62431 specification</a>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Wall Sockets IP67,"62434, gewiss wall sockets, industrial wall sockets, Wall sockets IP67",,https://www.derrywood.com/wp-content/uploads/2017/10/gw62434.jpg,,,,,,,,,0,312,,30,,Gewiss Industrial plugs and sockets,Gewiss Industrial plugs and sockets,44,Industrial plugs and sockets range - 16 amp 3 Pin + N + E 380 - 415V,"We are agents for the Gewiss industrial plugs and sockets range, buy online or call our sales team on 01 4503800 for more details.",
+1435,simple,,Flexible Conduit,1,0,visible,"Vinpower Flexible conduit range available in 30 meter reels, Click on the specification below for more details.
+\n
+\nTo purchase this product please contact our sales office on 00353 1 4503800","&nbsp;
+\n
+\n&nbsp;",,,taxable,,1,,,0,0,,,,,0,,,,VINPOWER Product Range,Flexible Conduit,,https://www.derrywood.com/wp-content/uploads/2017/11/VP-conduit.jpg,,,,,,,,,0,148,,30,,Flexible conduit,Flexible conduit,49,Flexible conduit black sheath,"Flexible conduit black sheath available in 30 meter reels reinforced with a spiral made polyvinyl chloride, self extinguishing flame retardant.",
+1499,simple,,POP UP SOCKETS WITH 3 OUTLETS AND 2 X USB PORTS,1,0,visible,3 gang pop up sockets with 2 usb ports,"<a href=""http://www.derrywood.com/wp-content/uploads/2018/02/POP-UP-SOCKETS.pdf"">CLICK ON THE LINK FOR SPECIFICATION POP UP SOCKETS</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"3 GANG SOCKETS, OFFICE SOCKETS, POP UP SOCKETS, POP UP SOCKETS WITH USB",,https://www.derrywood.com/wp-content/uploads/2018/02/Silver-pop-up-sockets.jpg,,,,,,,,,0,148,,60,,,,,,,
+1502,simple,,3 gang pop up sockets,1,0,visible,"3 gang pop up sockets with 1.5 metre cord, click on the specification for full product details.","<a href=""https://www.derrywood.com/wp-content/uploads/2018/02/pop-up-sockets.png""><img class=""alignleft size-medium wp-image-1691"" src=""https://www.derrywood.com/wp-content/uploads/2018/02/pop-up-sockets-300x278.png"" alt="""" width=""300"" height=""278"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"3 gang pop up sockets, POP UP SOCKETS, Round pop up socket",,https://www.derrywood.com/wp-content/uploads/2018/02/pop-up-sockets.png,,,,,,,,,0,148,,30,,,,,,,
+1646,simple,,GW68017N,1,0,visible,"<a href=""https://www.derrywood.com/wp-content/uploads/2018/03/Gw68017n-specification.png""><img class=""alignleft size-medium wp-image-1647"" src=""https://www.derrywood.com/wp-content/uploads/2018/03/Gw68017n-specification-300x227.png"" alt="""" width=""300"" height=""227"" /></a>","<b>Q-DIN 5 MODULES - 1 FLANGE IEC 309 16A IP44/67 - IP65 </b>
+\n
+\n&nbsp;
+\n<table class=""urTxtStd"" border=""0"" width=""100%"" cellspacing=""0"" cellpadding=""0"">
+\n<tbody>
+\n<tr>
+\n<td align=""left"">No. of modules
+\nEN 50022</td>
+\n<td bgcolor=""#F8F8F8"">5</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Houseable
+\nsocket</td>
+\n<td bgcolor=""#F8F8F8"">1 IEC 309 16A IP44/67</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">No. of provided
+\nblank lids</td>
+\n<td bgcolor=""#F8F8F8"">-</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Dispersible
+\npower A (W)</td>
+\n<td bgcolor=""#F8F8F8"">10</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Dispersible
+\npower B (W)</td>
+\n<td bgcolor=""#F8F8F8"">37</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Ware number</td>
+\n<td align=""left"" bgcolor=""#F8F8F8"">85381000</td>
+\n</tr>
+\n</tbody>
+\n</table>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Combi Units,"combi unit, gw68017n",,https://www.derrywood.com/wp-content/uploads/2018/03/gw68017n-1.jpg,,,,,,,,,0,327,,60,,,,,,,
+1649,simple,,Gw68018N,1,0,visible,"<a href=""https://www.derrywood.com/wp-content/uploads/2018/03/Gw-68018n-specification.png""><img class=""alignleft size-medium wp-image-1651"" src=""https://www.derrywood.com/wp-content/uploads/2018/03/Gw-68018n-specification-300x227.png"" alt="""" width=""300"" height=""227"" /></a>","<b>Q-DIN 5 MODULES - 2 FLANGE IEC 309 16A IP44/67 - IP65 </b>
+\n<table class=""urTxtStd"" border=""0"" width=""100%"" cellspacing=""0"" cellpadding=""0"">
+\n<tbody>
+\n<tr>
+\n<td align=""left"">No. of modules
+\nEN 50022</td>
+\n<td bgcolor=""#F8F8F8"">5</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Houseable
+\nsocket</td>
+\n<td bgcolor=""#F8F8F8"">2 IEC 309 16A IP44/67</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">No. of provided
+\nblank lids</td>
+\n<td bgcolor=""#F8F8F8"">-</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Dispersible
+\npower A (W)</td>
+\n<td bgcolor=""#F8F8F8"">10</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Dispersible
+\npower B (W)</td>
+\n<td bgcolor=""#F8F8F8"">37</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Ware number</td>
+\n<td align=""left"" bgcolor=""#F8F8F8"">85371098</td>
+\n</tr>
+\n</tbody>
+\n</table>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Combi Units,"combi unit, Gw68018n",,https://www.derrywood.com/wp-content/uploads/2018/03/Gw68018n.jpg,,,,,,,,,0,327,,60,,,,,,,
+1652,simple,,Gw68020N,1,0,visible,"<a href=""https://www.derrywood.com/wp-content/uploads/2018/03/Gw68020n-specification.png""><img class=""alignleft size-medium wp-image-1654"" src=""https://www.derrywood.com/wp-content/uploads/2018/03/Gw68020n-specification-300x226.png"" alt="""" width=""300"" height=""226"" /></a>","<b>Q-DIN 5 MODULES - 2 FLANGE IEC 309 16/32A IP44/67 - IP65 </b>
+\n<table class=""urTxtStd"" border=""0"" width=""100%"" cellspacing=""0"" cellpadding=""0"">
+\n<tbody>
+\n<tr>
+\n<td align=""left"">No. of modules
+\nEN 50022</td>
+\n<td bgcolor=""#F8F8F8"">5</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Houseable
+\nsocket</td>
+\n<td bgcolor=""#F8F8F8"">2 IEC 309 16/32A IP44/67</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">No. of provided
+\nblank lids</td>
+\n<td bgcolor=""#F8F8F8"">1 IEC 16/32A</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Dispersible
+\npower A (W)</td>
+\n<td bgcolor=""#F8F8F8"">10</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Dispersible
+\npower B (W)</td>
+\n<td bgcolor=""#F8F8F8"">37</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Ware number</td>
+\n<td align=""left"" bgcolor=""#F8F8F8"">85371098</td>
+\n</tr>
+\n</tbody>
+\n</table>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Combi Units,"combi units, Gewiss, gw68020n, Q-DIN 5 MODULES - 2 FLANGE IEC 309 16/32A IP44/67 - IP65",,https://www.derrywood.com/wp-content/uploads/2018/03/gw68020n.jpg,,,,,,,,,0,327,,60,,,,,,,
+1666,simple,,Gw68001n,1,0,visible,"<a href=""https://www.derrywood.com/wp-content/uploads/2018/03/Gw68001n-specification.png""><img class=""alignleft size-medium wp-image-1668"" src=""https://www.derrywood.com/wp-content/uploads/2018/03/Gw68001n-specification-300x273.png"" alt="""" width=""300"" height=""273"" /></a>","<b>Q-DIN 5 MODULES - 3 FLANGE IEC 309 16A IP44/67 - IP65 </b>
+\n<table class=""urTxtStd"" border=""0"" width=""100%"" cellspacing=""0"" cellpadding=""0"">
+\n<tbody>
+\n<tr>
+\n<td align=""left"">No. of modules
+\nEN 50022</td>
+\n<td bgcolor=""#F8F8F8"">5</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Houseable
+\nsocket</td>
+\n<td bgcolor=""#F8F8F8"">3 IEC 309 16A IP44/67</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">No. of provided
+\nblank lids</td>
+\n<td bgcolor=""#F8F8F8"">1 IEC 16A</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Dispersible
+\npower A (W)</td>
+\n<td bgcolor=""#F8F8F8"">10</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Dispersible
+\npower B (W)</td>
+\n<td bgcolor=""#F8F8F8"">37</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Ware number</td>
+\n<td align=""left"" bgcolor=""#F8F8F8"">85381000</td>
+\n</tr>
+\n</tbody>
+\n</table>
+\n&nbsp;",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Combi Units,"combi units, gewiss combi units, Gw68001n",,https://www.derrywood.com/wp-content/uploads/2018/03/Gw68001n.jpg,,,,,,,,,0,327,,60,,,,,,,
+1670,simple,,Gw68003n,1,0,visible,"<a href=""https://www.derrywood.com/wp-content/uploads/2018/03/Gw-68003n-specification.png""><img class=""alignleft size-medium wp-image-1673"" src=""https://www.derrywood.com/wp-content/uploads/2018/03/Gw-68003n-specification-300x228.png"" alt="""" width=""300"" height=""228"" /></a>","<div>
+\n
+\n<b>Q-DIN 10 MODULES - 2 FLANGE IB VERTICAL 16/32 A IP67 - IP65 </b>
+\n
+\nTechnical specifications
+\n
+\n</div>
+\n<table border=""0"" width=""100%"" cellspacing=""0"" cellpadding=""0"">
+\n<tbody>
+\n<tr>
+\n<td width=""397"">
+\n<table class=""urTxtStd"" border=""0"" width=""100%"" cellspacing=""0"" cellpadding=""0"">
+\n<tbody>
+\n<tr>
+\n<td align=""left"">No. of modules
+\nEN 50022</td>
+\n<td bgcolor=""#F8F8F8"">10</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Houseable
+\nsocket</td>
+\n<td bgcolor=""#F8F8F8"">2 IEC 16A + 2 IEC 16/32A</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">No. of provided
+\nblank lids</td>
+\n<td bgcolor=""#F8F8F8"">1 IEC 309 16A+1 16/32A</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Dispersible
+\npower A (W)</td>
+\n<td bgcolor=""#F8F8F8"">16</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Dispersible
+\npower B (W)</td>
+\n<td bgcolor=""#F8F8F8"">42</td>
+\n</tr>
+\n<tr>
+\n<td align=""left"">Ware number</td>
+\n<td align=""left"" bgcolor=""#F8F8F8"">85381000</td>
+\n</tr>
+\n</tbody>
+\n</table>
+\n</td>
+\n</tr>
+\n</tbody>
+\n</table>",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range > Combi Units,"combi units, gewiss Q-Din Range, Gw68003n",,https://www.derrywood.com/wp-content/uploads/2018/03/Gw68003n.jpg,,,,,,,,,0,327,,60,,,,,,,
+1684,simple,,Gewiss Power Products Brochure,1,0,visible,"For further information on our complete Gewiss products download our Brochure
+\n
+\n&nbsp;","&nbsp;
+\n
+\nClick the link below for Gewiss product range;
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2018/04/GEWISS-BROCHURE-DERRYWOOD-AGENCIES.pdf"">GEWISS BROCHURE - DERRYWOOD AGENCIES</a>",,,taxable,,1,,,0,0,,,,,0,,,,"Gewiss Power Range > Gewiss Brochure, Gewiss Power Range","Gewiss brochure, Gewiss Power, Gewiss product range",,https://www.derrywood.com/wp-content/uploads/2017/09/2014-product-album-408117_1p.jpg,,,,,,,,,0,24,,30,,,,,,,
+1696,simple,,RGBW 4 channel Controller,1,0,visible,"4 channel RGBW controller
+\n
+\nUin = 12 - 36VDC
+\n
+\n2.4 G","<a href=""https://www.derrywood.com/wp-content/uploads/2018/05/R4c-led-controller.jpg""><img class=""alignleft size-medium wp-image-1697"" src=""https://www.derrywood.com/wp-content/uploads/2018/05/R4c-led-controller-300x300.jpg"" alt="""" width=""300"" height=""300"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,LED Strip Lighting,"4 channel controller, LED Controller, R4C, RGBW Controller",,https://www.derrywood.com/wp-content/uploads/2018/05/R4c-led-controller.jpg,,,,,,,,,0,23,,30,,,,,,,
+1698,simple,,RGB Wireless Wall Panel,1,0,visible,"RGB wall Panel
+\n
+\n12 -24 VDC
+\n
+\nWireless 3 channel wall panel","<a href=""https://www.derrywood.com/wp-content/uploads/2018/05/RGB-wall-panel.jpg""><img class=""alignleft size-medium wp-image-1699"" src=""https://www.derrywood.com/wp-content/uploads/2018/05/RGB-wall-panel-300x300.jpg"" alt="""" width=""300"" height=""300"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,LED Strip Lighting,"RGB wall panel, Wireless wall panel",,https://www.derrywood.com/wp-content/uploads/2018/05/RGB-wall-panel.jpg,,,,,,,,,0,23,,30,,,,,,,
+1700,simple,,4 channel RGBW wall panel,1,0,visible,"4 channel main voltage RGBW wall panel
+\n
+\nRGBW DMX512 Master and RF Remote","<a href=""https://www.derrywood.com/wp-content/uploads/2018/05/4-channel-rgbw-wall-panel.jpg""><img class=""alignleft size-medium wp-image-1701"" src=""https://www.derrywood.com/wp-content/uploads/2018/05/4-channel-rgbw-wall-panel-300x300.jpg"" alt="""" width=""300"" height=""300"" /></a>",,,taxable,,1,,,0,0,,,,,0,,,,LED Strip Lighting,"4 channel RGBW wall panel, 4 channel wall panel, led lighting, wall panel",,https://www.derrywood.com/wp-content/uploads/2018/05/4-channel-rgbw-wall-panel.jpg,,,,,,,,,0,23,,30,,,,,,,
+1721,simple,,Cp5005 Farm Meter Box,1,0,visible,"Farm Meter Box
+\n
+\nABS Material
+\n
+\nTriangle lock
+\n
+\n1mm galvanized plate
+\n
+\nIK10
+\n
+\nIP65","Farm Meter Box
+\n
+\nABS Material
+\n
+\nTriangle lock
+\n
+\n1mm galvanized plate
+\n
+\nIK10
+\n
+\nIP65",,,taxable,,1,,,0,0,,,,,0,,,,VINPOWER Product Range,"Cp5005, Farm meter box",,"https://www.derrywood.com/wp-content/uploads/2018/06/CP5005.jpg, https://www.derrywood.com/wp-content/uploads/2018/06/CP5005.jpg, https://www.derrywood.com/wp-content/uploads/2018/06/pr_01_95825_min.jpg",,,,,,,,,0,148,,90,,,,,CP5005 Farm meter box with back plate - IP65 and IK10,"Farm meter box 400 x 600 x 200 Made from ABS material Impact resistant to IK10 Triangle lock key, 1 mm galvanized plate, wall fixing bracket",1
+1725,simple,,30 watt LED Flood Light,1,0,visible,"30 watt LED flood light
+\n
+\nslim line design,
+\n
+\nCorrosion proof,
+\n
+\n4000K Temperature
+\n
+\nIP65
+\n
+\nEpistar Chip
+\n
+\n3 year warranty","30 watt LED flood light
+\n
+\nslim line design,
+\n
+\nCorrosion proof,
+\n
+\n4000K Temperature
+\n
+\nIP65
+\n
+\nEpistar Chip
+\n
+\n3 year warranty",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"30 watt flood, Corrosion proof flood, LED flood light, Slime Line flood lights",,https://www.derrywood.com/wp-content/uploads/2017/09/flood-lights-new.png,,,,,,,,,0,48,,90,,30 watt flood light,30 watt flood light,35,,,1
+1728,simple,,GW704311,1,0,visible,"Click on the link below for specification;
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2018/08/Gewiss-rotary-isolators-new-IP69.pdf"">Gewiss rotary isolators new IP69</a>","Reduce your installation time by choosing the ultimate solution in terms of safety and strength,
+\nwith the new range of isolators from 16A to 160A. Available in both plastic or metal boxes, 70
+\nRT HP is ideal for all industrial installations, designed even for the most heavy-duty installations.
+\n
+\n&nbsp;
+\n
+\n&nbsp;",,,taxable,,1,,,0,0,,,,,0,,,,Gewiss Power Range,"interlocking switch, IP69",,https://www.derrywood.com/wp-content/uploads/2018/08/Gewiss-interlocking-switch.jpg,,,,,,,,,0,24,,60,,Gewiss interlocking switch,Gewiss interlocking switch,37,,,1
+1874,simple,,Delfina Street Light,1,0,visible,"&nbsp;
+\n
+\nClick on the link below for specification
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/10/Delfina-v1.2.pdf"">Delfina Specification</a>
+\n
+\n&nbsp;","<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-409"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-414"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-410"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-411"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-412"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-404"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-03yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-03yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-03yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-03yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-03yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-03yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-03yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-03yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-03yr.png 1182w"" alt=""3 years warranty"" width=""50"" height=""50"" />
+\n
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\nConstructed from an aluminium body and gear cover with a black powder coated finish, the luminaires are strong and lightweight and very stable in operation. Suitable for use in car parks, many access roads and local and urban street lighting situations.
+\n
+\n• IP65, 230 volts 50Hz – nominal supply
+\n• Easy installation and low maintenance
+\n• Low profile appearance
+\n• Robust aluminium casing with powder coated finish
+\n• High luminaire efficacy up to 104 llm/W
+\n• Stainless steel securing bolts
+\n• Lifetime 30,000 hours
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"delfina, Hilclare Lighting, pathway lighting, street lighting",,https://www.derrywood.com/wp-content/uploads/2019/10/Delfina-Image-SQ-600-340x300.jpg,,,,,,,,,0,48,,60,,,street lighting; led; delfina;,25,,,1
+1878,simple,,Inca Street Light,1,0,visible,"Please click on the link below for Product specification:
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/10/Inca-v1.3.pdf"">Inca Street Light</a>","<img class=""alignnone wp-image-409"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-414"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-410"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-411"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-412"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-405"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w"" alt="""" width=""50"" height=""50"" />
+\n
+\nConstructed from a die-cast aluminium body with a grey powder coated finish, the luminaires are strong and lightweight and very stable in operation. Uses computer designed optics which ensures superb results. Suitable for use in most access road and local street lighting situations, including small precincts in towns and villages.
+\n
+\n• IP65, 230 volts 50Hz – nominal supply
+\n• Easy installation
+\n• Low profile appearance
+\n• Computer designed optics ensures no direct light pollution when mounted horizontal
+\n• Reliable engine and driver
+\n• Side entry for wall or column mounting
+\n• Lifetime 50,000 hours",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Hilclare LED Lighting, Hilclare Lighting, Inca Street Light, street lighting",,"https://www.derrywood.com/wp-content/uploads/2019/10/Inca-600-340x300.jpg, https://www.derrywood.com/wp-content/uploads/2019/10/Inca-Dimensions-1.jpg",,,,,,,,,0,48,,30,,,Hilclare Lighting; LED Ligthing;,31,%%title%% %%page%% %%sep%% %%sitename%% %%title%%,"Constructed from a die-cast aluminium body with a grey powder coated finish, the luminaires are strong and lightweight and very stable in operation.",1
+1882,simple,,Sancha LED Street Light,1,0,visible,"<em><strong>Please Click the link below for Specification</strong></em>
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/10/Sancha-v1.3.pdf"">Sancha Specification</a>","<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-414"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-407"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-12yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-12yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-12yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-12yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-12yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-12yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-12yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-12yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-12yr.png 1182w"" alt="""" width=""50"" height=""50"" />
+\n
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\nA range of IP66 road, path and area lanterns incorporating multiple LED clusters and glass optical lens systems. Constructed from an aluminium ADC12 alloy body and gear cover with either a light grey or black powder coated finish, the luminaires are strong and lightweight and very stable in operation. Suitable for use in car parks, many access and larger roads, local and urban street lighting situations.
+\n
+\n• High luminaire efficacy up to 126 llm/W
+\n• Self-cleaning design
+\n• IP66 weatherproof
+\n• IK08
+\n• Tool-free easy access design
+\n• Low profile appearance
+\n• Lifetime 100,000 hours
+\n• Post top and side entry ± 15°
+\n• Nema socket dusk/dawn sensor options
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Hilclare Lighting, Sancha street light",,https://www.derrywood.com/wp-content/uploads/2019/10/Sancha-600-340x300.jpg,,,,,,,,,0,48,,60,,,Sancha LED Street Light,44,,"A range of IP66 road, path and area lanterns incorporating multiple LED clusters and glass optical lens systems.",1
+1889,simple,,Arica Bollard,1,0,visible,"Click on the link below;
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/10/Arica-specification.pdf"">Arica specification</a>","<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-414"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-405"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w"" alt="""" width=""50"" height=""50"" />
+\n
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\nA root or flange mounted exterior bollard luminaire.
+\nConstructed from brushed and lacquered 316 marine grade stainless steel body and top cap. Opal or clear polycarbonate injection moulded diffusers offer different aesthetic and photometric options. Suitable for use along pathways as well as decorative lighting around buildings and general security.
+\n
+\n• Robust 316 marine grade stainless steel body
+\n• Tough polycarbonate diffuser
+\n• IP65 ingress protection
+\n• Lifetime 50,000 hours
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Arica Bollard, Bollard LED Lighting, Hilclare Lighting",,https://www.derrywood.com/wp-content/uploads/2019/10/Arica-Bollard.jpg,,,,,,,,,0,48,,30,,,Bollard,39,,A root or flange mounted exterior bollard luminaire.Constructed from brushed and lacquered 316 marine grade stainless steel body and top cap.,1
+1902,simple,,Illora Performance,1,0,visible,"Click the link below for product information:
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/11/Illora-Performance-v1.2.pdf"">Illora-Performance-Specification</a>","<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n<h2>ILLORA PERFORMANCE</h2>
+\n<h5 class=""black-text"">Surface/Suspended Linear</h5>
+\n</div>
+\n</div>
+\n<div class=""vc_separator wpb_content_element vc_separator_align_center vc_sep_width_30 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_grey""></div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-410"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-411"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-405"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w"" alt="""" width=""50"" height=""50"" />
+\n
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\nThe Illora is perfect for a wide range of industrial and commercial applications including warehouses, shopping centres, manufacturing plants and large conference areas.
+\n
+\n• Efficacy up to 150 lm/W
+\n• CRI&gt;80
+\n• Dimming and PIR Sensor option available
+\n• LED life &gt;72,000 hrs
+\n• Tridonic driver
+\n• 5-year warranty
+\n• Premium Lumileds LED’s
+\n• LEDiL<sup>®</sup> lenses
+\n• Surface, suspension and BESA box mounting method
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Hilclare Lighting, Illora High Bay, Illora Performance",,https://www.derrywood.com/wp-content/uploads/2019/11/Illora-Image-SQ-600-1.jpg,,,,,,,,,0,48,,30,,,Illora,47,,"The Illora is perfect for a wide range of industrial and commercial applications including warehouses, shopping centres, manufacturing plants and large conference areas.",1
+1906,simple,,Alicia,1,0,visible,"Click on the link for product specification:
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/11/Alicia-Specification.pdf"">Alicia-Specification</a>","<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n<h2>ALICIA</h2>
+\n<h5 class=""black-text"">Linear</h5>
+\n</div>
+\n</div>
+\n<div class=""vc_separator wpb_content_element vc_separator_align_center vc_sep_width_30 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_grey""></div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-409"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-410"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-411"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-413"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-412"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-405"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w"" alt="""" width=""50"" height=""50"" />
+\n
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\nAn economic range of IP65 luminaires with a permanently secured opal diffuser. They are suitable for ceiling or suspension mounting in a wide variety of industrial and amenity applications.
+\n
+\n• Single and twin, 4ft and 5ft versions available
+\n• Suitable for ceiling or suspension mounting
+\n• Installation via rear located mounting clips
+\n• Polycarbonate body and diffuser
+\n• Lifetime 30,000 hours
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Alicia, Corrosion Proof, Hilclare Lighting, LED",,https://www.derrywood.com/wp-content/uploads/2019/11/Alicia-Image-SQ-600.jpg,,,,,,,,,0,48,,30,,,Alicia,40,,An economic range of IP65 luminaires with a permanently secured opal diffuser. They are suitable for ceiling or suspension mounting.,1
+1913,simple,,LUCIA,1,0,visible,"CLICK BELOW FOR DETAILS;
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/11/Lucia-v1.4.pdf"">LUCIA SPECIFICATION</a>","<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n<h2>LUCIA</h2>
+\n<h5 class=""black-text"">UFO High Bay</h5>
+\n</div>
+\n</div>
+\n<div class=""vc_separator wpb_content_element vc_separator_align_center vc_sep_width_30 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_grey""></div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-410"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-405"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w"" alt="""" width=""50"" height=""50"" />
+\n
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\nA range of IP65 LED high bay luminaires with 60°, 90° or 120° lens options. Body manufactured from die-cast aluminium complete with stainless steel safety lanyard, Meanwell drivers complete with 800mm mains cable and Philips Luxeon LEDs. The fittings can be supplied with a presence sensor if required. Suitable for use in warehouses, factories and other industrial and commercial areas.
+\n
+\n• IP65
+\n• 60°, 90°, 120° beam angle options
+\n• Black finish
+\n• Easy installation, chain or surface mounting
+\n• Low profile appearance
+\n• Various outputs available up to 120 llm/W
+\n• Lifetime 50,000 hours
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"HIGH BAY, Hilclare Lighting, led lighting",,https://www.derrywood.com/wp-content/uploads/2019/11/Lucia-Image-SQ-600.jpg,,,,,,,,,0,48,,60,,,LUCIA,42,,"A range of IP65 LED high bay luminaires with 60°, 90° or 120° lens options. Body manufactured from die-cast aluminium and stainless safety lanyard.",1
+1916,simple,,AMIGO,1,0,visible,"Click on the link below for detail:
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/11/Amigo-Specification.pdf"">Amigo Specification</a>","<div class=""wpb_text_column wpb_content_element "" style=""box-sizing: inherit; margin: 0px 0px 35px; border: 0px; color: #686876; font-family: Montserrat;"">
+\n<div class=""wpb_wrapper"" style=""box-sizing: inherit; margin: 0px; border: 0px;"">
+\n<p style=""box-sizing: inherit; margin-bottom: 0px;""><img class=""alignnone wp-image-409"" style=""box-sizing: inherit; margin: 5px 0px 0px; width: 60px;"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-414"" style=""box-sizing: inherit; margin: 5px 0px 0px; width: 60px;"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-410"" style=""box-sizing: inherit; margin: 5px 0px 0px; width: 60px;"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-411"" style=""box-sizing: inherit; margin: 5px 0px 0px; width: 60px;"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-412"" style=""box-sizing: inherit; margin: 5px 0px 0px; width: 60px;"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-413"" style=""box-sizing: inherit; margin: 5px 0px 0px; width: 60px;"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-405"" style=""box-sizing: inherit; margin: 5px 0px 0px; width: 60px;"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w"" alt="""" width=""50"" height=""50"" /></p>
+\n
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "" style=""box-sizing: inherit; margin: 0px 0px 35px; border: 0px; color: #686876; font-family: Montserrat;"">
+\n<div class=""wpb_wrapper"" style=""box-sizing: inherit; margin: 0px; border: 0px;"">
+\n<p style=""box-sizing: inherit; margin-bottom: 15px;"">A range of exterior IP65 amenity luminaires, suitable for use around buildings to provide lighting to footpaths and general security.</p>
+\n<p style=""box-sizing: inherit; margin-bottom: 0px;"">• IP65<br style=""box-sizing: inherit;"" />• Black visor to reduce light pollution<br style=""box-sizing: inherit;"" />• Polycarbonate vandal resistant prism lens<br style=""box-sizing: inherit;"" />• Wall mounting<br style=""box-sizing: inherit;"" />• Easy access to control gear and lamp<br style=""box-sizing: inherit;"" />• Photocell control available<br style=""box-sizing: inherit; margin-bottom: 0px;"" />• Lifetime 50,000 hours</p>
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Amigo, Bulkhead;, hilclare, LED",,https://www.derrywood.com/wp-content/uploads/2019/11/Amigo-Image-SQ-600.jpg,,,,,,,,,0,48,,30,,,Amigo,36,,"A range of exterior IP65 amenity luminaires, suitable for use around buildings to provide lighting to footpaths and general security.",1
+1919,simple,,Tubular High Temp,1,0,visible,,"<div class=""vc_row wpb_row vc_inner vc_row-fluid"">
+\n<div class=""wpb_column vc_column_container vc_col-sm-6"">
+\n<div class=""vc_column-inner "">
+\n<div class=""wpb_wrapper"">
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-1810"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/UK-Exclusive-1-e1548173786522.png"" sizes=""(max-width: 58px) 100vw, 58px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/UK-Exclusive-1-e1548173786522.png 208w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/UK-Exclusive-1-e1548173786522-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/UK-Exclusive-1-e1548173786522-75x75.png 75w"" alt=""UK Exclusive"" width=""58"" height=""58"" /><img class=""alignnone wp-image-405"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png"" sizes=""(max-width: 60px) 100vw, 60px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w"" alt=""5 Year Warranty"" width=""60"" height=""60"" />
+\n
+\n</div>
+\n</div>
+\n</div>
+\n</div>
+\n</div>
+\n<div class=""wpb_column vc_column_container vc_col-sm-6"">
+\n<div class=""vc_column-inner "">
+\n<div class=""wpb_wrapper"">
+\n<div class=""wpb_single_image wpb_content_element vc_align_left"">
+\n<figure class=""wpb_wrapper vc_figure"">
+\n<div class=""vc_single_image-wrapper vc_box_border_grey""><img class=""vc_single_image-img "" title=""Sammode Lighting Logo"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/home-sammodet-logo-130x60.png"" alt=""Sammode Lighting Logo"" width=""130"" height=""60"" /></div></figure>
+\n</div>
+\n</div>
+\n</div>
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n<h3>Tubular High Temp</h3>
+\nPAULI 1 HT
+\n<h5>Tubular, Non Atex</h5>
+\nHeavy duty tubular light for high temperature industrial
+\nenvironments.
+\n
+\n<span class=""bullet"">•</span> High temperature to 200°C
+\n<span class=""bullet"">•</span> T8
+\n<span class=""bullet"">•</span> IP68/69K
+\n<span class=""bullet"">•</span> Borocilicate glass diffuser
+\n<span class=""bullet"">•</span> 600mm-1500mm
+\n<span class=""bullet"">•</span> 18W
+\n<span class=""bullet"">•</span> Resistant to aggressive chemical environments
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Hilclare LED Lighting, Tubular High Temp",,https://www.derrywood.com/wp-content/uploads/2019/11/Tubular-High-Temp-200x200.jpg,,,,,,,,,0,48,,60,,,High Temp fitting,31,,"Tubular, Non AtexHeavy duty tubular light for high temperature industrial environments.",1
+1921,simple,,MANGA ANTI VANDAL FITTING,1,0,visible,"Click on the link for details:
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/11/Manga-Specification.pdf"">Manga Specification</a>","<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n<h2>MANGA</h2>
+\n<h5 class=""black-text"">Surface Mounted, Secure Area</h5>
+\n</div>
+\n</div>
+\n<div class=""vc_separator wpb_content_element vc_separator_align_center vc_sep_width_30 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_grey""></div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-409"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-414"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-410"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-411"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial.png 1182w"" alt="""" width=""50"" height=""50"" /><img class=""alignnone wp-image-405"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w"" alt="""" width=""50"" height=""50"" />
+\n
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\nIP54 and IK10 vandal resistant luminaires. Constructed from a rigid steel body and 6mm thick cracked ice polycarbonate diffuser, secured by tamper-proof stainless steel bolts. Suitable for use in secure installations, as well as public areas such as subways, bus stations and other vandal prone areas.
+\n
+\n• 6mm polycarbonate diffuser
+\n• Vandal resistant construction with tamper-proof stainless steel bolts
+\nas standard
+\n• Suitable for public areas
+\n• Lifetime 50,000 hours
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Hilclare LED Lighting, MANGA, MANGA VANDAL PROOF FITTING",,https://www.derrywood.com/wp-content/uploads/2019/11/Manga-Image-SQ-600-340x300.jpg,,,,,,,,,0,48,,60,,,,,,"IP54 and IK10 vandal resistant luminaires. Constructed from a rigid steel body and 6mm thick cracked ice polycarbonate diffuser, secured by tamper-proof stainless steel.",1
+1924,simple,,JAVIER,1,0,visible,"Click the link for details:
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/11/Javier-Specification.pdf"">Javier Specification</a>","<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n<h2>JAVIER</h2>
+\n<h5 class=""black-text"">Post Top, Lantern</h5>
+\n</div>
+\n</div>
+\n<div class=""vc_separator wpb_content_element vc_separator_align_center vc_sep_width_30 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_grey""></div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-412"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-409"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-411"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-410"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-414"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-405"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w"" alt="""" width=""50"" height=""50"" />
+\n
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\nAn IP65 grey die-cast aluminium base, clear prismatic polycarbonate diffuser, steel cover and plated steel gear tray. Suitable for walkways, car parks, retail and public areas.
+\n
+\n• Attractive modern design
+\n• Easy installation and low maintenance
+\n• IP65 ingress protection
+\n• Robust aluminium casing with powder coated finish
+\n• Prismatic polycarbonate diffuser
+\n• Lifetime 50,000 hours
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Javier, street lighting",,https://www.derrywood.com/wp-content/uploads/2019/11/Javier-Image-SQ-600.jpg,,,,,,,,,0,48,,30,,,Javier,40,,"An IP65 grey die-cast aluminium base, clear prismatic polycarbonate diffuser, steel cover and plated steel gear tray. Suitable for walkways, car parks.",1
+1928,simple,,CARMONA,1,0,visible,"Click on the link for product details;
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/11/Carmona-Specification.pdf"">Carmona Specification</a>","<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n<h2>CARMONA</h2>
+\n<h5 class=""black-text"">Mild Steel</h5>
+\n</div>
+\n</div>
+\n<div class=""vc_separator wpb_content_element vc_separator_align_center vc_sep_width_30 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_grey""></div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-414"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-405"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w"" alt="""" width=""50"" height=""50"" />
+\n
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\nA root or flange mounted exterior bollard luminaire. Constructed from black polyester coated steel tubular body and top cap. Opal or clear polycarbonate injection moulded diffusers and offer different aesthetic and photometric options. Suitable for use along pathways as well as decorative lighting around buildings and general security.
+\n
+\n• Strong steel body
+\n• Tough polycarbonate diffuser
+\n• Easy access to control gear
+\n• IP65 ingress protection
+\n• Lifetime 50,000 hours
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"BOLLARD LIGHTING, CARMONA",,https://www.derrywood.com/wp-content/uploads/2019/11/Carmona-Image-SQ-600.jpg,,,,,,,,,0,48,,30,,,,,,A root or flange mounted exterior bollard luminaire. Constructed from black polyester coated steel tubular body and top cap.,1
+1931,simple,,Palma,1,0,visible,"Click on the link for details:
+\n
+\n<a href=""https://www.derrywood.com/wp-content/uploads/2019/11/Palma-Specification.pdf"">Palma Specification</a>","<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n<h2>PALMA</h2>
+\n<h5 class=""black-text"">Surface Mounted, Bulkhead</h5>
+\n</div>
+\n</div>
+\n<div class=""vc_separator wpb_content_element vc_separator_align_center vc_sep_width_30 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_grey""></div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-409"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Healthcare.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-414"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Exterior.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-410"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Industrial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-411"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Commercial.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-412"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Education.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-413"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Sector-Icons_Green-Emergency.png 1182w"" alt="""" width=""50"" height=""50"" /> <img class=""alignnone wp-image-405"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png"" sizes=""(max-width: 50px) 100vw, 50px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w"" alt="""" width=""50"" height=""50"" />
+\n
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\nA robust and versatile luminaire, suitable for security lighting, multi-storey car parks, covered walkways, subways and tunnels.
+\n
+\n• IP54, 240 Volts 50Hz – nominal supply
+\n• Robust black die cast aluminium body
+\n• UV stabilised clear prismatic polycarbonate diffuser
+\n• Lifetime 50,000 hours
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Hilclare Lighting, led lighting, Palma",,https://www.derrywood.com/wp-content/uploads/2019/11/Palma-Image-SQ-600.jpg,,,,,,,,,0,48,,30,,,,,,"A robust and versatile luminaire, suitable for security lighting, multi-storey car parks, covered walkways, subways and tunnels.",1
+1934,simple,,Zone 2 High IP Tubular Fitting,1,0,visible,,"<div class=""vc_row wpb_row vc_inner vc_row-fluid"">
+\n<div class=""wpb_column vc_column_container vc_col-sm-8"">
+\n<div class=""vc_column-inner "">
+\n<div class=""wpb_wrapper"">
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n
+\n<img class=""alignnone wp-image-1810"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/UK-Exclusive-1-e1548173786522.png"" sizes=""(max-width: 55px) 100vw, 55px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/UK-Exclusive-1-e1548173786522.png 208w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/UK-Exclusive-1-e1548173786522-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/UK-Exclusive-1-e1548173786522-75x75.png 75w"" alt=""UK Exclusive"" width=""55"" height=""55"" />  <img class=""alignnone wp-image-1811"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/ATEX-300x270.png"" alt=""ATEX Icon"" width=""63"" height=""57"" /> <img class=""alignnone wp-image-405"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png"" sizes=""(max-width: 57px) 100vw, 57px"" srcset=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr.png 1182w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-150x150.png 150w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-300x300.png 300w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-768x768.png 768w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-1024x1024.png 1024w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-75x75.png 75w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-500x500.png 500w, https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Warranty-Icons_Grey-05yr-800x800.png 800w"" alt=""5 Year Warranty"" width=""57"" height=""57"" />
+\n
+\n</div>
+\n</div>
+\n</div>
+\n</div>
+\n</div>
+\n<div class=""wpb_column vc_column_container vc_col-sm-4"">
+\n<div class=""vc_column-inner "">
+\n<div class=""wpb_wrapper"">
+\n<div class=""wpb_single_image wpb_content_element vc_align_left"">
+\n<figure class=""wpb_wrapper vc_figure"">
+\n<div class=""vc_single_image-wrapper   vc_box_border_grey""><img class=""vc_single_image-img "" title=""Sammode Lighting Logo"" src=""https://3hi0y029f8qgcon8s2sy0h51-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/home-sammodet-logo-130x60.png"" alt=""Sammode Lighting Logo"" width=""130"" height=""60"" /></div></figure>
+\n</div>
+\n</div>
+\n</div>
+\n</div>
+\n</div>
+\n<div class=""wpb_text_column wpb_content_element "">
+\n<div class=""wpb_wrapper"">
+\n<h3>Zone 2 High IP Tubular</h3>
+\nBOYLE 100 133
+\n<h5>Tubular, Atex</h5>
+\nImpervious tubular light fitting for difficult explosive environments.
+\n
+\n<span class=""bullet"">• </span>II 3G Ex nA IIC T4 Gc (gas)
+\n<span class=""bullet"">• </span>II 2D Ex tb IIIC T80°C (dust)
+\n<span class=""bullet"">• </span>LED
+\n<span class=""bullet"">• </span>IP68/69K
+\n<span class=""bullet"">• </span>Coextruded polycarbonate methcrylate or borocilicate glass diffuser
+\n<span class=""bullet"">• </span>600-1500mm
+\n<span class=""bullet"">• </span>16-85W
+\n
+\n</div>
+\n</div>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,"Hilclare LED Lighting, Zone 2, Zone 2High IP",,https://www.derrywood.com/wp-content/uploads/2019/11/Zone-2-High-IP-Tubular-300x300.jpg,,,,,,,,,0,48,,60,,,,,,Impervious tubular light fitting for difficult explosive environments.,1
+1938,simple,,Hilclare LDT Files,1,0,visible,,"<a href=""https://www.derrywood.com/wp-content/uploads/2019/11/Hilclare-ldt-files.zip"">Click me to download - Hilclare ldt files</a>",,,taxable,,1,,,0,0,,,,,0,,,,HILCLARE LIGHTING RANGE,hilclare ldt files,,https://www.derrywood.com/wp-content/uploads/2019/11/LDT-files.png,,,,,,,,,0,48,,60,,,,,,,1
