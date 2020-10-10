@@ -2,11 +2,34 @@ import os
 import csv
 import json
 import pathlib
+import requests
+import threading
 from datetime import datetime
 
 
 def log(message):
     print(f'[{datetime.utcnow().strftime("%H:%M:%S.%f")[:-3]}]: {message}')
+
+
+def download_content(file_name, file, source_link, extension):
+    file_path = f'./files/products/{file_name}'
+    pathlib.Path(file_path).mkdir(parents=True, exist_ok=True)
+    file_path += f'/{file}.{extension}'
+
+    # last_file_size = 0
+
+    response = requests.get(source_link)
+    # if os.path.isfile(file_path):
+    #     last_file_size = os.path.getsize(file_path)
+
+    # if len(response.content) > last_file_size:
+    with open(file_path, 'wb') as prod_file:
+        prod_file.write(response.content)
+        prod_file.close()
+
+    log(f">> Downloaded {file_name}.{extension}")
+    # else:
+    #     log(f">> Already Found {file_name}.{extension}")
 
 
 def create_gewiss_json(file_name, features):
@@ -46,24 +69,15 @@ def main():
                     if name == "NAME" or name == "":
                         continue
 
-                    create_gewiss_json(name, {
+                    threading.Thread(target=create_gewiss_json, args=(name, {
                         'category': category,
                         'tags': tags
-                    })
-                    # product_name = row[0]
-                    # product_link = row[1]
-                    # log(f"Working on {product_name}")
-                    # if product_link != "":
-                    #     image_state, pdf_state, desc_state = scrape_content(product_name, product_link)
-                    #     row.append(str(image_state))
-                    #     row.append(str(pdf_state))
-                    #     row.append(str(desc_state))
-                    # else:
-                    #     log(">> But Not Found")
-                    #     row.append(str(False))
-                    #     row.append(str(False))
-                    #     row.append(str(False))
-                    # writer.writerow(row)
+                    })).start()
+                    count = 1
+                    for item in images.split(","):
+                        threading.Thread(target=download_content,
+                                         args=(name, f"{name}-{count}", item.strip(), item.strip()[-3:])).start()
+                        count += 1
     except Exception as e:
         log(f"Error: {repr(e)}")
 
