@@ -1,3 +1,4 @@
+import os
 import json
 import pathlib
 import requests
@@ -17,6 +18,26 @@ def download_content(file_name, file, source_link, extension):
     print(f">> Downloaded {file_name}.{extension}")
 
 
+def create_gewiss_json(file_name, features):
+    file_path = f'./files/products/{file_name}'
+    pathlib.Path(file_path).mkdir(parents=True, exist_ok=True)
+    file_path += f'/info.json'
+
+    default_val = {}
+
+    if os.path.isfile(file_path):
+        with open(file_path) as f:
+            default_val = json.load(f)
+
+    for (key, value) in features.items():
+        default_val[key] = value
+
+    with open(file_path, 'w') as f:
+        json.dump(default_val, f)
+
+    print(f">> Created JSON for {file_name}")
+
+
 vinpower_products = json.load(open('files/vinpower_products.json'))
 new_products = []
 
@@ -29,6 +50,14 @@ for product in vinpower_products:
         product['Short description'] = ''.join(names[1:]) + "\n" + short_desc
 
     name = str(product['Name'])
+
+    threading.Thread(target=create_gewiss_json, args=(name, {
+        'category': product['Categories'],
+        'tags': product['Tags'],
+        'description': product['Description'],
+        'short_description': product['Short description']
+    })).start()
+
     count = 1
     for item in product['Images'].split(","):
         threading.Thread(target=download_content,
